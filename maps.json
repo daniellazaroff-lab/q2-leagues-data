@@ -10994,5 +10994,63 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 185,
+    "name": "Cold Steel",
+    "date": "2026-06-12",
+    "time_start": "01:39",
+    "time_end": "01:40",
+    "players": [
+      {
+        "player_id": 216,
+        "special": "",
+        "frags": 30,
+        "frags_against": 4,
+        "self_kills": 0
+      },
+      {
+        "player_id": 95,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 14,
+        "self_kills": 0
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 6,
+        "frags_against": 12,
+        "self_kills": 0
+      },
+      {
+        "player_id": 57,
+        "special": "B",
+        "frags": 6,
+        "frags_against": 13,
+        "self_kills": 0
+      },
+      {
+        "player_id": 17,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 3,
+        "self_kills": 0
+      },
+      {
+        "player_id": 218,
+        "special": "",
+        "frags": 4,
+        "frags_against": 13,
+        "self_kills": 1
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
