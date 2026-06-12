@@ -11430,5 +11430,70 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 193,
+    "name": "Twists",
+    "date": "2026-06-12",
+    "time_start": "06:31",
+    "time_end": "06:33",
+    "players": [
+      {
+        "player_id": 57,
+        "special": "B",
+        "frags": 23,
+        "frags_against": 16,
+        "self_kills": 6
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 22,
+        "frags_against": 19,
+        "self_kills": 3
+      },
+      {
+        "player_id": 106,
+        "special": "B",
+        "frags": 20,
+        "frags_against": 11,
+        "self_kills": 3
+      },
+      {
+        "player_id": 41,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 22,
+        "self_kills": 2
+      },
+      {
+        "player_id": 95,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 21,
+        "self_kills": 3
+      },
+      {
+        "player_id": 124,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      },
+      {
+        "player_id": 155,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 1
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
