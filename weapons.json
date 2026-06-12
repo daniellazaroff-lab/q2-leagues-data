@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "name": "NULL"
+  },
+  {
+    "id": 1,
+    "name": "Grenade Launcher"
+  },
+  {
+    "id": 2,
+    "name": "Ripper"
+  },
+  {
+    "id": 3,
+    "name": "Super Shotgun"
+  },
+  {
+    "id": 4,
+    "name": "Shotgun"
+  },
+  {
+    "id": 5,
+    "name": "HyperBlaster"
+  },
+  {
+    "id": 6,
+    "name": "Chaingun"
+  },
+  {
+    "id": 7,
+    "name": "BFG10K"
+  },
+  {
+    "id": 8,
+    "name": "Machine Gun"
+  },
+  {
+    "id": 9,
+    "name": "Railgun"
+  },
+  {
+    "id": 10,
+    "name": "Blaster"
+  },
+  {
+    "id": 11,
+    "name": "Phalanx"
+  },
+  {
+    "id": 12,
+    "name": "Rocket Launcher"
+  },
+  {
+    "id": 13,
+    "name": "Hand Grenade"
+  },
+  {
+    "id": 14,
+    "name": "Chainfist"
+  },
+  {
+    "id": 15,
+    "name": "Trap"
+  },
+  {
+    "id": 16,
+    "name": "Nailgun"
+  },
+  {
+    "id": 17,
+    "name": "Plasma Beam"
+  },
+  {
+    "id": 18,
+    "name": "Disruptor"
+  },
+  {
+    "id": 19,
+    "name": "Vengeance Sphere"
+  },
+  {
+    "id": 20,
+    "name": "Doppelganger"
+  },
+  {
+    "id": 21,
+    "name": "Hunter Sphere"
+  },
+  {
+    "id": 22,
+    "name": "Defender Sphere"
+  },
+  {
+    "id": 23,
+    "name": "Proximity Mine"
+  },
+  {
+    "id": 24,
+    "name": "Tesla Mine"
+  },
+  {
+    "id": 25,
+    "name": "Antimatter Bomb"
+  }
+]
