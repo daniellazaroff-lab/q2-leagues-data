@@ -14142,5 +14142,70 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 240,
+    "name": "Mad Dash",
+    "date": "2026-06-12",
+    "time_start": "19:02",
+    "time_end": "19:04",
+    "players": [
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 27,
+        "frags_against": 19,
+        "self_kills": 3
+      },
+      {
+        "player_id": 17,
+        "special": "B",
+        "frags": 23,
+        "frags_against": 19,
+        "self_kills": 1
+      },
+      {
+        "player_id": 136,
+        "special": "",
+        "frags": 14,
+        "frags_against": 3,
+        "self_kills": 1
+      },
+      {
+        "player_id": 115,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 21,
+        "self_kills": 3
+      },
+      {
+        "player_id": 42,
+        "special": "B",
+        "frags": 11,
+        "frags_against": 20,
+        "self_kills": 1
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 6,
+        "frags_against": 23,
+        "self_kills": 3
+      },
+      {
+        "player_id": 64,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
