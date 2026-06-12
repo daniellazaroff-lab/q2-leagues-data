@@ -13198,5 +13198,107 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 223,
+    "name": "Mad Dash",
+    "date": "2026-06-12",
+    "time_start": "14:48",
+    "time_end": "15:02",
+    "players": [
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 25,
+        "frags_against": 10,
+        "self_kills": 1
+      },
+      {
+        "player_id": 113,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 21,
+        "self_kills": 4
+      },
+      {
+        "player_id": 104,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 18,
+        "self_kills": 1
+      },
+      {
+        "player_id": 126,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 20,
+        "self_kills": 4
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 22,
+        "self_kills": 2
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Dying Halls",
+    "date": "2026-06-12",
+    "time_start": "15:02",
+    "time_end": "15:02",
+    "players": [
+      {
+        "player_id": 222,
+        "special": "",
+        "frags": 30,
+        "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 126,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 17,
+        "self_kills": 2
+      },
+      {
+        "player_id": 104,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 16,
+        "self_kills": 1
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 12,
+        "self_kills": 2
+      },
+      {
+        "player_id": 113,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 18,
+        "self_kills": 2
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
