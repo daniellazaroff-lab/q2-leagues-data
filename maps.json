@@ -12393,5 +12393,63 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 209,
+    "name": "War Room",
+    "date": "2026-06-12",
+    "time_start": "11:52",
+    "time_end": "12:02",
+    "players": [
+      {
+        "player_id": 131,
+        "special": "B",
+        "frags": 25,
+        "frags_against": 20,
+        "self_kills": 1
+      },
+      {
+        "player_id": 27,
+        "special": "B",
+        "frags": 20,
+        "frags_against": 21,
+        "self_kills": 4
+      },
+      {
+        "player_id": 104,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 29,
+        "self_kills": 1
+      },
+      {
+        "player_id": 119,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 20,
+        "self_kills": 3
+      },
+      {
+        "player_id": 155,
+        "special": "",
+        "frags": 8,
+        "frags_against": 5,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 2,
+        "self_kills": 0
+      },
+      {
+        "player_id": 223,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0
+      }
+    ]
   }
 ]
