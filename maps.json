@@ -11908,5 +11908,56 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 201,
+    "name": "Corridors",
+    "date": "2026-06-12",
+    "time_start": "10:11",
+    "time_end": "10:11",
+    "players": [
+      {
+        "player_id": 221,
+        "special": "",
+        "frags": 30,
+        "frags_against": 12,
+        "self_kills": 0
+      },
+      {
+        "player_id": 220,
+        "special": "",
+        "frags": 27,
+        "frags_against": 14,
+        "self_kills": 0
+      },
+      {
+        "player_id": 161,
+        "special": "",
+        "frags": 17,
+        "frags_against": 21,
+        "self_kills": 0
+      },
+      {
+        "player_id": 219,
+        "special": "",
+        "frags": 14,
+        "frags_against": 22,
+        "self_kills": 0
+      },
+      {
+        "player_id": 218,
+        "special": "",
+        "frags": 9,
+        "frags_against": 27,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
