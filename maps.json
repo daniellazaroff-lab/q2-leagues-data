@@ -14309,5 +14309,63 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 243,
+    "name": "Overflow",
+    "date": "2026-06-12",
+    "time_start": "19:59",
+    "time_end": "20:00",
+    "players": [
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 30,
+        "frags_against": 8,
+        "self_kills": 1
+      },
+      {
+        "player_id": 115,
+        "special": "B",
+        "frags": 21,
+        "frags_against": 31,
+        "self_kills": 1
+      },
+      {
+        "player_id": 17,
+        "special": "B",
+        "frags": 21,
+        "frags_against": 21,
+        "self_kills": 2
+      },
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 31,
+        "self_kills": 1
+      },
+      {
+        "player_id": 59,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 20,
+        "self_kills": 1
+      },
+      {
+        "player_id": 135,
+        "special": "",
+        "frags": 2,
+        "frags_against": 1,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
