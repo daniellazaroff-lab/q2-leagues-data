@@ -440,29 +440,29 @@
     "name": "Ash",
     "special": "B",
     "is_bot": true,
-    "maps_played": 4,
-    "total_frags": 50,
+    "maps_played": 5,
+    "total_frags": 80,
     "frags_by_weapon": {
       "Grenade Launcher": 3,
-      "Super Shotgun": 6,
-      "Chaingun": 6,
-      "Rocket Launcher": 21,
+      "Super Shotgun": 15,
+      "Chaingun": 9,
+      "Rocket Launcher": 22,
       "Machine Gun": 1,
-      "HyperBlaster": 4,
-      "Railgun": 2,
+      "HyperBlaster": 12,
+      "Railgun": 11,
       "BFG10K": 7
     },
-    "total_frags_against": 75,
+    "total_frags_against": 95,
     "frags_against_by_weapon": {
-      "Grenade Launcher": 9,
-      "Rocket Launcher": 20,
-      "HyperBlaster": 8,
-      "Machine Gun": 4,
-      "Railgun": 16,
-      "Super Shotgun": 9,
-      "Chaingun": 3,
-      "BFG10K": 4,
-      "Blaster": 2
+      "Grenade Launcher": 13,
+      "Rocket Launcher": 22,
+      "HyperBlaster": 13,
+      "Machine Gun": 5,
+      "Railgun": 18,
+      "Super Shotgun": 11,
+      "Chaingun": 4,
+      "BFG10K": 5,
+      "Blaster": 4
     },
     "total_self_kills": 8,
     "self_kills_by_type": {
@@ -470,7 +470,7 @@
       "BFG10K": 1,
       "Suicide": 1
     },
-    "elo": 957.23
+    "elo": 1003.99
   },
   {
     "id": 22,
@@ -1093,40 +1093,40 @@
     "name": "Droi",
     "special": "B",
     "is_bot": true,
-    "maps_played": 15,
-    "total_frags": 206,
+    "maps_played": 16,
+    "total_frags": 229,
     "frags_by_weapon": {
-      "Super Shotgun": 35,
-      "Railgun": 11,
-      "HyperBlaster": 38,
-      "BFG10K": 32,
-      "Rocket Launcher": 43,
+      "Super Shotgun": 38,
+      "Railgun": 18,
+      "HyperBlaster": 46,
+      "BFG10K": 33,
+      "Rocket Launcher": 44,
       "Grenade Launcher": 12,
-      "Chaingun": 16,
+      "Chaingun": 18,
       "Blaster": 12,
-      "Machine Gun": 7
+      "Machine Gun": 8
     },
-    "total_frags_against": 279,
+    "total_frags_against": 298,
     "frags_against_by_weapon": {
-      "Grenade Launcher": 24,
-      "HyperBlaster": 47,
-      "Machine Gun": 5,
-      "Super Shotgun": 39,
+      "Grenade Launcher": 25,
+      "HyperBlaster": 56,
+      "Machine Gun": 6,
+      "Super Shotgun": 41,
       "Blaster": 10,
-      "Chaingun": 20,
+      "Chaingun": 24,
       "Rocket Launcher": 62,
-      "Railgun": 40,
+      "Railgun": 42,
       "BFG10K": 32
     },
-    "total_self_kills": 31,
+    "total_self_kills": 32,
     "self_kills_by_type": {
       "Rocket": 15,
       "Laser": 2,
-      "BFG10K": 9,
+      "BFG10K": 10,
       "Grenade": 3,
       "Fall": 2
     },
-    "elo": 828.63
+    "elo": 910.82
   },
   {
     "id": 42,
@@ -1161,40 +1161,40 @@
     "name": "Edward850",
     "special": "B",
     "is_bot": true,
-    "maps_played": 18,
-    "total_frags": 257,
+    "maps_played": 19,
+    "total_frags": 278,
     "frags_by_weapon": {
       "Grenade Launcher": 18,
-      "Blaster": 15,
-      "HyperBlaster": 43,
-      "Chaingun": 20,
-      "Rocket Launcher": 72,
-      "BFG10K": 37,
-      "Super Shotgun": 30,
-      "Railgun": 17,
-      "Machine Gun": 5
+      "Blaster": 17,
+      "HyperBlaster": 49,
+      "Chaingun": 21,
+      "Rocket Launcher": 74,
+      "BFG10K": 38,
+      "Super Shotgun": 34,
+      "Railgun": 19,
+      "Machine Gun": 8
     },
-    "total_frags_against": 309,
+    "total_frags_against": 337,
     "frags_against_by_weapon": {
-      "Rocket Launcher": 65,
-      "Super Shotgun": 33,
-      "Chaingun": 25,
+      "Rocket Launcher": 66,
+      "Super Shotgun": 43,
+      "Chaingun": 26,
       "Machine Gun": 16,
-      "HyperBlaster": 26,
-      "Blaster": 10,
-      "BFG10K": 31,
-      "Grenade Launcher": 20,
-      "Railgun": 82,
+      "HyperBlaster": 34,
+      "Blaster": 11,
+      "BFG10K": 32,
+      "Grenade Launcher": 21,
+      "Railgun": 87,
       "Hand Grenade": 1
     },
-    "total_self_kills": 47,
+    "total_self_kills": 48,
     "self_kills_by_type": {
-      "Rocket": 22,
+      "Rocket": 23,
       "Grenade": 6,
       "BFG10K": 15,
       "Laser": 4
     },
-    "elo": 932.86
+    "elo": 913.54
   },
   {
     "id": 44,
@@ -2057,36 +2057,37 @@
     "name": "Levelhead",
     "special": "B",
     "is_bot": true,
-    "maps_played": 3,
-    "total_frags": 51,
+    "maps_played": 4,
+    "total_frags": 71,
     "frags_by_weapon": {
-      "BFG10K": 14,
-      "Rocket Launcher": 22,
-      "Chaingun": 3,
+      "BFG10K": 16,
+      "Rocket Launcher": 24,
+      "Chaingun": 7,
       "Grenade Launcher": 4,
-      "Super Shotgun": 3,
-      "HyperBlaster": 3,
+      "Super Shotgun": 7,
+      "HyperBlaster": 7,
       "Railgun": 1,
-      "Blaster": 1
+      "Blaster": 5
     },
-    "total_frags_against": 45,
+    "total_frags_against": 76,
     "frags_against_by_weapon": {
       "BFG10K": 13,
-      "Grenade Launcher": 4,
-      "Blaster": 1,
-      "Railgun": 7,
-      "Machine Gun": 1,
-      "Rocket Launcher": 13,
-      "Super Shotgun": 4,
-      "Chaingun": 2
+      "Grenade Launcher": 6,
+      "Blaster": 2,
+      "Railgun": 14,
+      "Machine Gun": 2,
+      "Rocket Launcher": 16,
+      "Super Shotgun": 10,
+      "Chaingun": 5,
+      "HyperBlaster": 8
     },
-    "total_self_kills": 6,
+    "total_self_kills": 7,
     "self_kills_by_type": {
       "Lava": 1,
-      "Rocket": 4,
+      "Rocket": 5,
       "BFG10K": 1
     },
-    "elo": 969.69
+    "elo": 902.72
   },
   {
     "id": 71,
@@ -2584,14 +2585,25 @@
     "name": "Quasar",
     "special": "B",
     "is_bot": true,
-    "maps_played": 0,
-    "total_frags": 0,
-    "frags_by_weapon": {},
-    "total_frags_against": 0,
-    "frags_against_by_weapon": {},
+    "maps_played": 1,
+    "total_frags": 10,
+    "frags_by_weapon": {
+      "Super Shotgun": 3,
+      "HyperBlaster": 7
+    },
+    "total_frags_against": 11,
+    "frags_against_by_weapon": {
+      "Super Shotgun": 2,
+      "HyperBlaster": 2,
+      "BFG10K": 2,
+      "Blaster": 1,
+      "Chaingun": 1,
+      "Machine Gun": 1,
+      "Railgun": 2
+    },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1000
+    "elo": 951.04
   },
   {
     "id": 89,
@@ -4045,7 +4057,7 @@
     "name": "Q2-Leagues",
     "special": "",
     "is_bot": false,
-    "maps_played": 260,
+    "maps_played": 261,
     "total_frags": 248,
     "frags_by_weapon": {
       "Railgun": 58,
@@ -4058,7 +4070,7 @@
       "HyperBlaster": 11,
       "Blaster": 1
     },
-    "total_frags_against": 394,
+    "total_frags_against": 395,
     "frags_against_by_weapon": {
       "Chaingun": 39,
       "Blaster": 33,
@@ -4067,7 +4079,7 @@
       "Super Shotgun": 49,
       "BFG10K": 45,
       "Railgun": 65,
-      "HyperBlaster": 50,
+      "HyperBlaster": 51,
       "Machine Gun": 18,
       "Hand Grenade": 2,
       "Chainfist": 1
@@ -4078,7 +4090,7 @@
       "Lava": 1,
       "Rocket": 6
     },
-    "elo": 720.2
+    "elo": 719.74
   },
   {
     "id": 134,
@@ -7100,7 +7112,7 @@
     "name": "snout",
     "special": "",
     "is_bot": false,
-    "maps_played": 6,
+    "maps_played": 7,
     "total_frags": 137,
     "frags_by_weapon": {
       "Blaster": 1,
@@ -7113,7 +7125,7 @@
       "Machine Gun": 2,
       "Grenade Launcher": 4
     },
-    "total_frags_against": 80,
+    "total_frags_against": 81,
     "frags_against_by_weapon": {
       "BFG10K": 9,
       "HyperBlaster": 11,
@@ -7124,7 +7136,7 @@
       "Machine Gun": 5,
       "Super Shotgun": 6,
       "Grenade Launcher": 2,
-      "Blaster": 2
+      "Blaster": 3
     },
     "total_self_kills": 7,
     "self_kills_by_type": {
@@ -7132,7 +7144,7 @@
       "Grenade": 1,
       "Fall": 1
     },
-    "elo": 1103.14
+    "elo": 1101.77
   },
   {
     "id": 239,
@@ -7164,5 +7176,23 @@
     "total_self_kills": 0,
     "self_kills_by_type": {},
     "elo": 1031.06
+  },
+  {
+    "id": 240,
+    "name": "120db",
+    "special": "",
+    "is_bot": false,
+    "maps_played": 1,
+    "total_frags": 8,
+    "frags_by_weapon": {
+      "Grenade Launcher": 8
+    },
+    "total_frags_against": 1,
+    "frags_against_by_weapon": {
+      "Super Shotgun": 1
+    },
+    "total_self_kills": 0,
+    "self_kills_by_type": {},
+    "elo": 1005.13
   }
 ]
