@@ -14207,5 +14207,56 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 241,
+    "name": "Dying Halls",
+    "date": "2026-06-12",
+    "time_start": "19:37",
+    "time_end": "19:37",
+    "players": [
+      {
+        "player_id": 135,
+        "special": "",
+        "frags": 22,
+        "frags_against": 7,
+        "self_kills": 0
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 17,
+        "self_kills": 2
+      },
+      {
+        "player_id": 17,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 18,
+        "self_kills": 2
+      },
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 14,
+        "self_kills": 1
+      },
+      {
+        "player_id": 115,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 22,
+        "self_kills": 2
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      }
+    ]
   }
 ]
