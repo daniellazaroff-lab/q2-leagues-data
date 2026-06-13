@@ -14367,5 +14367,56 @@
         "self_kills": 0
       }
     ]
+  },
+  {
+    "id": 244,
+    "name": "Agony",
+    "date": "2026-06-12",
+    "time_start": "20:23",
+    "time_end": "20:30",
+    "players": [
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 26,
+        "frags_against": 27,
+        "self_kills": 2
+      },
+      {
+        "player_id": 17,
+        "special": "B",
+        "frags": 21,
+        "frags_against": 18,
+        "self_kills": 4
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 20,
+        "frags_against": 13,
+        "self_kills": 5
+      },
+      {
+        "player_id": 115,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 30,
+        "self_kills": 0
+      },
+      {
+        "player_id": 59,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 22,
+        "self_kills": 3
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 26,
+        "self_kills": 2
+      }
+    ]
   }
 ]
