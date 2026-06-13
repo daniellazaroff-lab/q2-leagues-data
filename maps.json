@@ -18439,5 +18439,95 @@
         "elo_after": 1000
       }
     ]
+  },
+  {
+    "id": 252,
+    "name": "Dying Halls",
+    "date": "2026-06-13",
+    "time_start": "00:52",
+    "time_end": "00:56",
+    "players": [
+      {
+        "player_id": 231,
+        "special": "",
+        "frags": 30,
+        "frags_against": 16,
+        "self_kills": 1,
+        "elo_before": 991.72,
+        "elo_after": 974.87
+      },
+      {
+        "player_id": 234,
+        "special": "",
+        "frags": 18,
+        "frags_against": 6,
+        "self_kills": 0,
+        "elo_before": 1040.89,
+        "elo_after": 1040.89
+      },
+      {
+        "player_id": 75,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 20,
+        "self_kills": 0,
+        "elo_before": 915.98,
+        "elo_after": 944.27
+      },
+      {
+        "player_id": 43,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 12,
+        "self_kills": 3,
+        "elo_before": 1031.28,
+        "elo_after": 1016.9
+      },
+      {
+        "player_id": 92,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 30,
+        "self_kills": 1,
+        "elo_before": 980.75,
+        "elo_after": 925.9
+      },
+      {
+        "player_id": 100,
+        "special": "B",
+        "frags": 3,
+        "frags_against": 8,
+        "self_kills": 1,
+        "elo_before": 906.04,
+        "elo_after": 908.56
+      },
+      {
+        "player_id": 114,
+        "special": "B",
+        "frags": 1,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 893.09,
+        "elo_after": 902.31
+      },
+      {
+        "player_id": 235,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 1000,
+        "elo_after": 1000
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 737.4,
+        "elo_after": 733.56
+      }
+    ]
   }
 ]
