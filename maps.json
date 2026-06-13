@@ -22777,5 +22777,104 @@
         "elo_after": 657.13
       }
     ]
+  },
+  {
+    "id": 309,
+    "name": "Dying Halls",
+    "date": "2026-06-13",
+    "time_start": "16:07",
+    "time_end": "16:09",
+    "players": [
+      {
+        "player_id": 21,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 11,
+        "self_kills": 0,
+        "elo_before": 966.95,
+        "elo_after": 957.43
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 15,
+        "self_kills": 2,
+        "elo_before": 908.35,
+        "elo_after": 909.3
+      },
+      {
+        "player_id": 59,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 17,
+        "self_kills": 2,
+        "elo_before": 917.48,
+        "elo_after": 904.0
+      },
+      {
+        "player_id": 40,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 11,
+        "self_kills": 3,
+        "elo_before": 873.23,
+        "elo_after": 911.02
+      },
+      {
+        "player_id": 91,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 14,
+        "self_kills": 0,
+        "elo_before": 857.99,
+        "elo_after": 844.23
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 657.13,
+        "elo_after": 656.79
+      },
+      {
+        "player_id": 27,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 3,
+        "self_kills": 1,
+        "elo_before": 869.62,
+        "elo_after": 855.99
+      },
+      {
+        "player_id": 273,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 1000,
+        "elo_after": 1000
+      },
+      {
+        "player_id": 61,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 923.87,
+        "elo_after": 923.87
+      },
+      {
+        "player_id": 272,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 998.99,
+        "elo_after": 998.99
+      }
+    ]
   }
 ]
