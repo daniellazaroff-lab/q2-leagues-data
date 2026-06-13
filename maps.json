@@ -20419,5 +20419,68 @@
         "elo_after": 702.0
       }
     ]
+  },
+  {
+    "id": 279,
+    "name": "Fortress",
+    "date": "2026-06-13",
+    "time_start": "06:22",
+    "time_end": "06:22",
+    "players": [
+      {
+        "player_id": 240,
+        "special": "",
+        "frags": 30,
+        "frags_against": 4,
+        "self_kills": 1,
+        "elo_before": 1077.83,
+        "elo_after": 1105.67
+      },
+      {
+        "player_id": 248,
+        "special": "",
+        "frags": 18,
+        "frags_against": 15,
+        "self_kills": 1,
+        "elo_before": 971.38,
+        "elo_after": 958.1
+      },
+      {
+        "player_id": 122,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 22,
+        "self_kills": 0,
+        "elo_before": 967.73,
+        "elo_after": 970.34
+      },
+      {
+        "player_id": 43,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 29,
+        "self_kills": 1,
+        "elo_before": 932.65,
+        "elo_after": 915.84
+      },
+      {
+        "player_id": 96,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 23,
+        "self_kills": 1,
+        "elo_before": 885.18,
+        "elo_after": 880.24
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 702.0,
+        "elo_after": 701.58
+      }
+    ]
   }
 ]
