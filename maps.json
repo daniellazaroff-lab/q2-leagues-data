@@ -19186,5 +19186,77 @@
         "elo_after": 719.4
       }
     ]
+  },
+  {
+    "id": 262,
+    "name": "Dying Halls",
+    "date": "2026-06-13",
+    "time_start": "02:37",
+    "time_end": "02:38",
+    "players": [
+      {
+        "player_id": 43,
+        "special": "B",
+        "frags": 23,
+        "frags_against": 11,
+        "self_kills": 3,
+        "elo_before": 906.72,
+        "elo_after": 1009.89
+      },
+      {
+        "player_id": 70,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 13,
+        "self_kills": 1,
+        "elo_before": 916.31,
+        "elo_after": 947.11
+      },
+      {
+        "player_id": 21,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 16,
+        "self_kills": 2,
+        "elo_before": 988.78,
+        "elo_after": 930.88
+      },
+      {
+        "player_id": 88,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 19,
+        "self_kills": 2,
+        "elo_before": 919.92,
+        "elo_after": 899.68
+      },
+      {
+        "player_id": 107,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 19,
+        "self_kills": 1,
+        "elo_before": 1000,
+        "elo_after": 930.0
+      },
+      {
+        "player_id": 241,
+        "special": "",
+        "frags": 1,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 1006.9,
+        "elo_after": 1006.56
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 719.4,
+        "elo_after": 718.91
+      }
+    ]
   }
 ]
