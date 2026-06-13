@@ -21949,5 +21949,68 @@
         "elo_after": 664.04
       }
     ]
+  },
+  {
+    "id": 298,
+    "name": "Twists",
+    "date": "2026-06-13",
+    "time_start": "09:18",
+    "time_end": "09:18",
+    "players": [
+      {
+        "player_id": 268,
+        "special": "",
+        "frags": 25,
+        "frags_against": 17,
+        "self_kills": 0,
+        "elo_before": 998.99,
+        "elo_after": 1003.88
+      },
+      {
+        "player_id": 29,
+        "special": "B",
+        "frags": 16,
+        "frags_against": 20,
+        "self_kills": 4,
+        "elo_before": 928.37,
+        "elo_after": 953.46
+      },
+      {
+        "player_id": 19,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 16,
+        "self_kills": 3,
+        "elo_before": 996.96,
+        "elo_after": 993.26
+      },
+      {
+        "player_id": 116,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 17,
+        "self_kills": 5,
+        "elo_before": 926.7,
+        "elo_after": 945.89
+      },
+      {
+        "player_id": 55,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 25,
+        "self_kills": 2,
+        "elo_before": 985.83,
+        "elo_after": 915.63
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 664.04,
+        "elo_after": 663.77
+      }
+    ]
   }
 ]
