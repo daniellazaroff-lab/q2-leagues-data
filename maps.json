@@ -28,18 +28,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 87,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 17,
-        "self_kills": 2
-      },
-      {
         "player_id": 64,
         "special": "B",
         "frags": 15,
         "frags_against": 24,
         "self_kills": 3
+      },
+      {
+        "player_id": 87,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 17,
+        "self_kills": 2
       },
       {
         "player_id": 133,
@@ -65,18 +65,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 41,
-        "special": "B",
-        "frags": 14,
-        "frags_against": 18,
-        "self_kills": 0
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 14,
         "frags_against": 18,
         "self_kills": 1
+      },
+      {
+        "player_id": 41,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 18,
+        "self_kills": 0
       },
       {
         "player_id": 100,
@@ -174,17 +174,17 @@
         "self_kills": 3
       },
       {
-        "player_id": 41,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 14,
-        "self_kills": 5
-      },
-      {
         "player_id": 100,
         "special": "B",
         "frags": 15,
         "frags_against": 23,
+        "self_kills": 5
+      },
+      {
+        "player_id": 41,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 14,
         "self_kills": 5
       },
       {
@@ -195,14 +195,14 @@
         "self_kills": 7
       },
       {
-        "player_id": 133,
+        "player_id": 134,
         "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 134,
+        "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -427,6 +427,13 @@
         "self_kills": 0
       },
       {
+        "player_id": 138,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0
+      },
+      {
         "player_id": 133,
         "special": "",
         "frags": 0,
@@ -438,13 +445,6 @@
         "special": "B",
         "frags": 0,
         "frags_against": 12,
-        "self_kills": 0
-      },
-      {
-        "player_id": 138,
-        "special": "",
-        "frags": 0,
-        "frags_against": 0,
         "self_kills": 0
       }
     ]
@@ -492,17 +492,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 136,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -805,18 +805,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 44,
-        "special": "B",
-        "frags": 13,
-        "frags_against": 20,
-        "self_kills": 2
-      },
-      {
         "player_id": 95,
         "special": "B",
         "frags": 13,
         "frags_against": 21,
         "self_kills": 4
+      },
+      {
+        "player_id": 44,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 20,
+        "self_kills": 2
       },
       {
         "player_id": 133,
@@ -1100,17 +1100,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 144,
-        "special": "",
-        "frags": 0,
-        "frags_against": 0,
-        "self_kills": 0
-      },
-      {
         "player_id": 135,
         "special": "",
         "frags": 0,
         "frags_against": 1,
+        "self_kills": 0
+      },
+      {
+        "player_id": 144,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
         "self_kills": 0
       }
     ]
@@ -1158,24 +1158,10 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 146,
         "special": "",
         "frags": 0,
         "frags_against": 0,
-        "self_kills": 0
-      },
-      {
-        "player_id": 135,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
         "self_kills": 0
       },
       {
@@ -1186,7 +1172,21 @@
         "self_kills": 0
       },
       {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      },
+      {
         "player_id": 142,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0
+      },
+      {
+        "player_id": 135,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -1258,17 +1258,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 149,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       },
       {
@@ -1506,18 +1506,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 5,
-        "frags_against": 7,
-        "self_kills": 0
-      },
-      {
         "player_id": 31,
         "special": "B",
         "frags": 5,
         "frags_against": 15,
         "self_kills": 1
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 7,
+        "self_kills": 0
       },
       {
         "player_id": 29,
@@ -1564,17 +1564,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 4,
-        "frags_against": 10,
-        "self_kills": 0
-      },
-      {
         "player_id": 29,
         "special": "B",
         "frags": 4,
         "frags_against": 11,
+        "self_kills": 0
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 10,
         "self_kills": 0
       },
       {
@@ -1666,18 +1666,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 31,
-        "special": "B",
-        "frags": 9,
-        "frags_against": 13,
-        "self_kills": 3
-      },
-      {
         "player_id": 63,
         "special": "B",
         "frags": 9,
         "frags_against": 15,
         "self_kills": 4
+      },
+      {
+        "player_id": 31,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 13,
+        "self_kills": 3
       },
       {
         "player_id": 133,
@@ -2051,17 +2051,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 10,
-        "frags_against": 19,
-        "self_kills": 0
-      },
-      {
         "player_id": 153,
         "special": "",
         "frags": 10,
         "frags_against": 20,
+        "self_kills": 0
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 19,
         "self_kills": 0
       },
       {
@@ -2246,18 +2246,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 13,
-        "frags_against": 26,
-        "self_kills": 0
-      },
-      {
         "player_id": 91,
         "special": "B",
         "frags": 13,
         "frags_against": 20,
         "self_kills": 1
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 26,
+        "self_kills": 0
       },
       {
         "player_id": 104,
@@ -2427,15 +2427,15 @@
         "self_kills": 2
       },
       {
-        "player_id": 133,
-        "special": "",
+        "player_id": 125,
+        "special": "B",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 125,
-        "special": "B",
+        "player_id": 133,
+        "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
@@ -2601,14 +2601,14 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
+        "player_id": 159,
         "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 159,
+        "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -2752,17 +2752,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 156,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       },
       {
@@ -3012,17 +3012,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 164,
-        "special": "",
-        "frags": 1,
-        "frags_against": 3,
-        "self_kills": 0
-      },
-      {
         "player_id": 165,
         "special": "",
         "frags": 1,
         "frags_against": 4,
+        "self_kills": 0
+      },
+      {
+        "player_id": 164,
+        "special": "",
+        "frags": 1,
+        "frags_against": 3,
         "self_kills": 0
       },
       {
@@ -3063,18 +3063,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 79,
-        "special": "B",
-        "frags": 5,
-        "frags_against": 20,
-        "self_kills": 0
-      },
-      {
         "player_id": 165,
         "special": "",
         "frags": 5,
         "frags_against": 8,
         "self_kills": 1
+      },
+      {
+        "player_id": 79,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 20,
+        "self_kills": 0
       },
       {
         "player_id": 87,
@@ -3135,18 +3135,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 87,
-        "special": "B",
-        "frags": 2,
-        "frags_against": 25,
-        "self_kills": 2
-      },
-      {
         "player_id": 137,
         "special": "",
         "frags": 2,
         "frags_against": 1,
         "self_kills": 0
+      },
+      {
+        "player_id": 87,
+        "special": "B",
+        "frags": 2,
+        "frags_against": 25,
+        "self_kills": 2
       },
       {
         "player_id": 133,
@@ -3200,6 +3200,13 @@
         "self_kills": 0
       },
       {
+        "player_id": 166,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0
+      },
+      {
         "player_id": 133,
         "special": "",
         "frags": 0,
@@ -3211,13 +3218,6 @@
         "special": "",
         "frags": 0,
         "frags_against": 1,
-        "self_kills": 0
-      },
-      {
-        "player_id": 166,
-        "special": "",
-        "frags": 0,
-        "frags_against": 0,
         "self_kills": 0
       }
     ]
@@ -3258,18 +3258,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 114,
-        "special": "B",
-        "frags": 4,
-        "frags_against": 4,
-        "self_kills": 0
-      },
-      {
         "player_id": 54,
         "special": "B",
         "frags": 4,
         "frags_against": 2,
         "self_kills": 3
+      },
+      {
+        "player_id": 114,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 4,
+        "self_kills": 0
       },
       {
         "player_id": 168,
@@ -3372,17 +3372,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 170,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -3453,18 +3453,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 115,
-        "special": "B",
-        "frags": 16,
-        "frags_against": 19,
-        "self_kills": 2
-      },
-      {
         "player_id": 114,
         "special": "B",
         "frags": 16,
         "frags_against": 13,
         "self_kills": 4
+      },
+      {
+        "player_id": 115,
+        "special": "B",
+        "frags": 16,
+        "frags_against": 19,
+        "self_kills": 2
       },
       {
         "player_id": 23,
@@ -3474,17 +3474,17 @@
         "self_kills": 5
       },
       {
-        "player_id": 172,
-        "special": "",
-        "frags": 4,
-        "frags_against": 3,
-        "self_kills": 0
-      },
-      {
         "player_id": 151,
         "special": "",
         "frags": 4,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 172,
+        "special": "",
+        "frags": 4,
+        "frags_against": 3,
         "self_kills": 0
       },
       {
@@ -3523,17 +3523,17 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 116,
         "special": "B",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -3611,18 +3611,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 172,
-        "special": "",
-        "frags": 14,
-        "frags_against": 17,
-        "self_kills": 0
-      },
-      {
         "player_id": 23,
         "special": "B",
         "frags": 14,
         "frags_against": 16,
         "self_kills": 4
+      },
+      {
+        "player_id": 172,
+        "special": "",
+        "frags": 14,
+        "frags_against": 17,
+        "self_kills": 0
       },
       {
         "player_id": 173,
@@ -3711,18 +3711,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 103,
-        "special": "B",
-        "frags": 0,
-        "frags_against": 6,
-        "self_kills": 1
-      },
-      {
         "player_id": 174,
         "special": "",
         "frags": 0,
         "frags_against": 2,
         "self_kills": 0
+      },
+      {
+        "player_id": 103,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 6,
+        "self_kills": 1
       }
     ]
   },
@@ -3748,18 +3748,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 130,
-        "special": "B",
-        "frags": 8,
-        "frags_against": 5,
-        "self_kills": 1
-      },
-      {
         "player_id": 160,
         "special": "",
         "frags": 8,
         "frags_against": 3,
         "self_kills": 0
+      },
+      {
+        "player_id": 130,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 5,
+        "self_kills": 1
       },
       {
         "player_id": 102,
@@ -4073,20 +4073,6 @@
         "self_kills": 0
       },
       {
-        "player_id": 60,
-        "special": "B",
-        "frags": 0,
-        "frags_against": 4,
-        "self_kills": 0
-      },
-      {
-        "player_id": 100,
-        "special": "B",
-        "frags": 0,
-        "frags_against": 2,
-        "self_kills": 0
-      },
-      {
         "player_id": 175,
         "special": "",
         "frags": 0,
@@ -4098,6 +4084,20 @@
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 4,
+        "self_kills": 0
+      },
+      {
+        "player_id": 100,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 2,
         "self_kills": 0
       }
     ]
@@ -4159,15 +4159,15 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
+        "player_id": 63,
+        "special": "B",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 63,
-        "special": "B",
+        "player_id": 133,
+        "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
@@ -4275,18 +4275,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 43,
-        "special": "B",
-        "frags": 1,
-        "frags_against": 6,
-        "self_kills": 1
-      },
-      {
         "player_id": 182,
         "special": "",
         "frags": 1,
         "frags_against": 1,
         "self_kills": 0
+      },
+      {
+        "player_id": 43,
+        "special": "B",
+        "frags": 1,
+        "frags_against": 6,
+        "self_kills": 1
       },
       {
         "player_id": 133,
@@ -4296,11 +4296,11 @@
         "self_kills": 0
       },
       {
-        "player_id": 183,
-        "special": "",
+        "player_id": 105,
+        "special": "B",
         "frags": 0,
-        "frags_against": 2,
-        "self_kills": 1
+        "frags_against": 1,
+        "self_kills": 0
       },
       {
         "player_id": 86,
@@ -4310,11 +4310,11 @@
         "self_kills": 0
       },
       {
-        "player_id": 105,
-        "special": "B",
+        "player_id": 183,
+        "special": "",
         "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
+        "frags_against": 2,
+        "self_kills": 1
       }
     ]
   },
@@ -4498,17 +4498,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 117,
-        "special": "B",
-        "frags": 0,
-        "frags_against": 2,
-        "self_kills": 0
-      },
-      {
         "player_id": 142,
         "special": "",
         "frags": 0,
         "frags_against": 1,
+        "self_kills": 0
+      },
+      {
+        "player_id": 117,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 2,
         "self_kills": 0
       }
     ]
@@ -4563,13 +4563,6 @@
         "self_kills": 0
       },
       {
-        "player_id": 185,
-        "special": "+",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 133,
         "special": "",
         "frags": 0,
@@ -4584,17 +4577,24 @@
         "self_kills": 0
       },
       {
-        "player_id": 184,
-        "special": "",
+        "player_id": 40,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 5,
+        "self_kills": 0
+      },
+      {
+        "player_id": 185,
+        "special": "+",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 40,
-        "special": "B",
+        "player_id": 184,
+        "special": "",
         "frags": 0,
-        "frags_against": 5,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -4809,18 +4809,18 @@
         "self_kills": 4
       },
       {
-        "player_id": 189,
-        "special": "",
-        "frags": 19,
-        "frags_against": 18,
-        "self_kills": 1
-      },
-      {
         "player_id": 188,
         "special": "+",
         "frags": 19,
         "frags_against": 7,
         "self_kills": 2
+      },
+      {
+        "player_id": 189,
+        "special": "",
+        "frags": 19,
+        "frags_against": 18,
+        "self_kills": 1
       },
       {
         "player_id": 23,
@@ -5039,18 +5039,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 111,
-        "special": "B",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 1
-      },
-      {
         "player_id": 190,
         "special": "+",
         "frags": 0,
         "frags_against": 4,
         "self_kills": 0
+      },
+      {
+        "player_id": 111,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 1
       }
     ]
   },
@@ -5387,18 +5387,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 14,
-        "special": "B",
-        "frags": 12,
-        "frags_against": 17,
-        "self_kills": 0
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 12,
         "frags_against": 14,
         "self_kills": 2
+      },
+      {
+        "player_id": 14,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 17,
+        "self_kills": 0
       },
       {
         "player_id": 23,
@@ -5640,17 +5640,17 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 56,
         "special": "B",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -5786,17 +5786,17 @@
         "self_kills": 2
       },
       {
-        "player_id": 14,
-        "special": "B",
-        "frags": 8,
-        "frags_against": 18,
-        "self_kills": 1
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 8,
         "frags_against": 20,
+        "self_kills": 1
+      },
+      {
+        "player_id": 14,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 18,
         "self_kills": 1
       },
       {
@@ -5981,17 +5981,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 72,
         "special": "B",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -6148,17 +6148,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 49,
         "special": "B",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -6823,17 +6823,17 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 200,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       },
       {
@@ -7192,17 +7192,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 138,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -7229,13 +7229,6 @@
         "self_kills": 1
       },
       {
-        "player_id": 189,
-        "special": "",
-        "frags": 25,
-        "frags_against": 24,
-        "self_kills": 1
-      },
-      {
         "player_id": 142,
         "special": "",
         "frags": 25,
@@ -7243,10 +7236,24 @@
         "self_kills": 0
       },
       {
+        "player_id": 189,
+        "special": "",
+        "frags": 25,
+        "frags_against": 24,
+        "self_kills": 1
+      },
+      {
         "player_id": 204,
         "special": "",
         "frags": 16,
         "frags_against": 7,
+        "self_kills": 0
+      },
+      {
+        "player_id": 203,
+        "special": "",
+        "frags": 4,
+        "frags_against": 17,
         "self_kills": 0
       },
       {
@@ -7257,13 +7264,6 @@
         "self_kills": 1
       },
       {
-        "player_id": 203,
-        "special": "",
-        "frags": 4,
-        "frags_against": 17,
-        "self_kills": 0
-      },
-      {
         "player_id": 77,
         "special": "B",
         "frags": 1,
@@ -7271,17 +7271,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 138,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -7373,17 +7373,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 203,
         "special": "",
         "frags": 0,
         "frags_against": 17,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -7431,13 +7431,6 @@
         "self_kills": 0
       },
       {
-        "player_id": 17,
-        "special": "B",
-        "frags": 3,
-        "frags_against": 4,
-        "self_kills": 0
-      },
-      {
         "player_id": 142,
         "special": "",
         "frags": 3,
@@ -7445,14 +7438,21 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
+        "player_id": 17,
+        "special": "B",
+        "frags": 3,
+        "frags_against": 4,
+        "self_kills": 0
+      },
+      {
+        "player_id": 204,
         "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 204,
+        "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -7526,18 +7526,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 26,
-        "frags_against": 21,
-        "self_kills": 6
-      },
-      {
         "player_id": 17,
         "special": "B",
         "frags": 26,
         "frags_against": 33,
         "self_kills": 2
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 26,
+        "frags_against": 21,
+        "self_kills": 6
       },
       {
         "player_id": 129,
@@ -7591,18 +7591,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 5,
-        "frags_against": 13,
-        "self_kills": 1
-      },
-      {
         "player_id": 129,
         "special": "B",
         "frags": 5,
         "frags_against": 12,
         "self_kills": 2
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 13,
+        "self_kills": 1
       },
       {
         "player_id": 75,
@@ -7874,18 +7874,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 19,
-        "frags_against": 21,
-        "self_kills": 2
-      },
-      {
         "player_id": 91,
         "special": "B",
         "frags": 19,
         "frags_against": 23,
         "self_kills": 1
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 21,
+        "self_kills": 2
       },
       {
         "player_id": 19,
@@ -7902,14 +7902,14 @@
         "self_kills": 7
       },
       {
-        "player_id": 133,
+        "player_id": 201,
         "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 201,
+        "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -7983,18 +7983,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 20,
-        "self_kills": 3
-      },
-      {
         "player_id": 91,
         "special": "B",
         "frags": 15,
         "frags_against": 18,
         "self_kills": 7
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 20,
+        "self_kills": 3
       },
       {
         "player_id": 129,
@@ -8041,18 +8041,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 12,
-        "frags_against": 16,
-        "self_kills": 1
-      },
-      {
         "player_id": 91,
         "special": "B",
         "frags": 12,
         "frags_against": 13,
         "self_kills": 0
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 16,
+        "self_kills": 1
       },
       {
         "player_id": 129,
@@ -8410,17 +8410,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 0,
         "frags_against": 5,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -8440,17 +8440,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 93,
-        "special": "B",
-        "frags": 16,
-        "frags_against": 16,
-        "self_kills": 4
-      },
-      {
         "player_id": 91,
         "special": "B",
         "frags": 16,
         "frags_against": 26,
+        "self_kills": 4
+      },
+      {
+        "player_id": 93,
+        "special": "B",
+        "frags": 16,
+        "frags_against": 16,
         "self_kills": 4
       },
       {
@@ -8934,17 +8934,17 @@
         "self_kills": 3
       },
       {
-        "player_id": 44,
-        "special": "B",
-        "frags": 9,
-        "frags_against": 12,
-        "self_kills": 2
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 9,
         "frags_against": 17,
+        "self_kills": 2
+      },
+      {
+        "player_id": 44,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 12,
         "self_kills": 2
       },
       {
@@ -9006,17 +9006,17 @@
         "self_kills": 2
       },
       {
-        "player_id": 209,
-        "special": "",
-        "frags": 14,
-        "frags_against": 3,
-        "self_kills": 1
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 14,
         "frags_against": 14,
+        "self_kills": 1
+      },
+      {
+        "player_id": 209,
+        "special": "",
+        "frags": 14,
+        "frags_against": 3,
         "self_kills": 1
       },
       {
@@ -9224,18 +9224,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 91,
-        "special": "B",
-        "frags": 8,
-        "frags_against": 20,
-        "self_kills": 2
-      },
-      {
         "player_id": 75,
         "special": "B",
         "frags": 8,
         "frags_against": 21,
         "self_kills": 1
+      },
+      {
+        "player_id": 91,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 20,
+        "self_kills": 2
       },
       {
         "player_id": 22,
@@ -9252,6 +9252,13 @@
         "self_kills": 0
       },
       {
+        "player_id": 81,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0
+      },
+      {
         "player_id": 133,
         "special": "",
         "frags": 0,
@@ -9259,10 +9266,10 @@
         "self_kills": 0
       },
       {
-        "player_id": 81,
-        "special": "B",
+        "player_id": 174,
+        "special": "",
         "frags": 0,
-        "frags_against": 0,
+        "frags_against": 2,
         "self_kills": 0
       },
       {
@@ -9278,13 +9285,6 @@
         "frags": 0,
         "frags_against": 2,
         "self_kills": 1
-      },
-      {
-        "player_id": 174,
-        "special": "",
-        "frags": 0,
-        "frags_against": 2,
-        "self_kills": 0
       }
     ]
   },
@@ -9403,14 +9403,14 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
+        "player_id": 208,
         "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 208,
+        "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -9461,17 +9461,17 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 212,
         "special": "",
         "frags": 0,
         "frags_against": 4,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       },
       {
@@ -9642,14 +9642,14 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
+        "player_id": 149,
         "special": "",
         "frags": 0,
         "frags_against": 1,
         "self_kills": 0
       },
       {
-        "player_id": 149,
+        "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
@@ -9767,6 +9767,13 @@
     "time_end": "17:52",
     "players": [
       {
+        "player_id": 129,
+        "special": "B",
+        "frags": 24,
+        "frags_against": 23,
+        "self_kills": 0
+      },
+      {
         "player_id": 60,
         "special": "B",
         "frags": 24,
@@ -9774,10 +9781,10 @@
         "self_kills": 2
       },
       {
-        "player_id": 129,
+        "player_id": 95,
         "special": "B",
-        "frags": 24,
-        "frags_against": 23,
+        "frags": 15,
+        "frags_against": 24,
         "self_kills": 0
       },
       {
@@ -9786,13 +9793,6 @@
         "frags": 15,
         "frags_against": 20,
         "self_kills": 3
-      },
-      {
-        "player_id": 95,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 24,
-        "self_kills": 0
       },
       {
         "player_id": 58,
@@ -9825,18 +9825,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 60,
-        "special": "B",
-        "frags": 25,
-        "frags_against": 26,
-        "self_kills": 3
-      },
-      {
         "player_id": 213,
         "special": "",
         "frags": 25,
         "frags_against": 16,
         "self_kills": 0
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 25,
+        "frags_against": 26,
+        "self_kills": 3
       },
       {
         "player_id": 94,
@@ -9904,10 +9904,10 @@
         "self_kills": 1
       },
       {
-        "player_id": 133,
+        "player_id": 213,
         "special": "",
         "frags": 0,
-        "frags_against": 1,
+        "frags_against": 3,
         "self_kills": 0
       },
       {
@@ -9918,10 +9918,10 @@
         "self_kills": 3
       },
       {
-        "player_id": 213,
+        "player_id": 133,
         "special": "",
         "frags": 0,
-        "frags_against": 3,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -10013,18 +10013,18 @@
         "self_kills": 4
       },
       {
-        "player_id": 135,
-        "special": "",
-        "frags": 7,
-        "frags_against": 2,
-        "self_kills": 0
-      },
-      {
         "player_id": 49,
         "special": "B",
         "frags": 7,
         "frags_against": 15,
         "self_kills": 3
+      },
+      {
+        "player_id": 135,
+        "special": "",
+        "frags": 7,
+        "frags_against": 2,
+        "self_kills": 0
       },
       {
         "player_id": 133,
@@ -10108,17 +10108,17 @@
         "self_kills": 1
       },
       {
-        "player_id": 60,
-        "special": "B",
-        "frags": 8,
-        "frags_against": 17,
-        "self_kills": 1
-      },
-      {
         "player_id": 95,
         "special": "B",
         "frags": 8,
         "frags_against": 18,
+        "self_kills": 1
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 17,
         "self_kills": 1
       },
       {
@@ -10435,18 +10435,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 60,
-        "special": "B",
-        "frags": 16,
-        "frags_against": 25,
-        "self_kills": 4
-      },
-      {
         "player_id": 105,
         "special": "B",
         "frags": 16,
         "frags_against": 30,
         "self_kills": 3
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 16,
+        "frags_against": 25,
+        "self_kills": 4
       },
       {
         "player_id": 133,
@@ -10472,18 +10472,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 30,
-        "special": "B",
-        "frags": 14,
-        "frags_against": 17,
-        "self_kills": 1
-      },
-      {
         "player_id": 46,
         "special": "B",
         "frags": 14,
         "frags_against": 17,
         "self_kills": 0
+      },
+      {
+        "player_id": 30,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 17,
+        "self_kills": 1
       },
       {
         "player_id": 105,
@@ -10574,17 +10574,17 @@
     "time_end": "22:24",
     "players": [
       {
-        "player_id": 60,
-        "special": "B",
-        "frags": 21,
-        "frags_against": 16,
-        "self_kills": 2
-      },
-      {
         "player_id": 95,
         "special": "B",
         "frags": 21,
         "frags_against": 11,
+        "self_kills": 2
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 21,
+        "frags_against": 16,
         "self_kills": 2
       },
       {
@@ -11017,17 +11017,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 60,
-        "special": "B",
-        "frags": 6,
-        "frags_against": 12,
-        "self_kills": 0
-      },
-      {
         "player_id": 57,
         "special": "B",
         "frags": 6,
         "frags_against": 13,
+        "self_kills": 0
+      },
+      {
+        "player_id": 60,
+        "special": "B",
+        "frags": 6,
+        "frags_against": 12,
         "self_kills": 0
       },
       {
@@ -11235,18 +11235,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 41,
-        "special": "B",
-        "frags": 18,
-        "frags_against": 24,
-        "self_kills": 5
-      },
-      {
         "player_id": 60,
         "special": "B",
         "frags": 18,
         "frags_against": 31,
         "self_kills": 1
+      },
+      {
+        "player_id": 41,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 24,
+        "self_kills": 5
       },
       {
         "player_id": 20,
@@ -11293,18 +11293,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 57,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 19,
-        "self_kills": 2
-      },
-      {
         "player_id": 95,
         "special": "B",
         "frags": 15,
         "frags_against": 23,
         "self_kills": 1
+      },
+      {
+        "player_id": 57,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 19,
+        "self_kills": 2
       },
       {
         "player_id": 41,
@@ -11344,18 +11344,18 @@
         "self_kills": 3
       },
       {
-        "player_id": 57,
-        "special": "B",
-        "frags": 14,
-        "frags_against": 15,
-        "self_kills": 4
-      },
-      {
         "player_id": 95,
         "special": "B",
         "frags": 14,
         "frags_against": 14,
         "self_kills": 1
+      },
+      {
+        "player_id": 57,
+        "special": "B",
+        "frags": 14,
+        "frags_against": 15,
+        "self_kills": 4
       },
       {
         "player_id": 41,
@@ -11539,6 +11539,13 @@
         "self_kills": 3
       },
       {
+        "player_id": 219,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0
+      },
+      {
         "player_id": 133,
         "special": "",
         "frags": 0,
@@ -11551,13 +11558,6 @@
         "frags": 0,
         "frags_against": 7,
         "self_kills": 1
-      },
-      {
-        "player_id": 219,
-        "special": "",
-        "frags": 0,
-        "frags_against": 0,
-        "self_kills": 0
       }
     ]
   },
@@ -12003,17 +12003,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 1,
-        "self_kills": 0
-      },
-      {
         "player_id": 218,
         "special": "",
         "frags": 0,
         "frags_against": 5,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
         "self_kills": 0
       }
     ]
@@ -12293,17 +12293,17 @@
         "self_kills": 2
       },
       {
-        "player_id": 131,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 31,
-        "self_kills": 0
-      },
-      {
         "player_id": 104,
         "special": "B",
         "frags": 15,
         "frags_against": 29,
+        "self_kills": 0
+      },
+      {
+        "player_id": 131,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 31,
         "self_kills": 0
       },
       {
@@ -12437,17 +12437,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 133,
-        "special": "",
-        "frags": 0,
-        "frags_against": 2,
-        "self_kills": 0
-      },
-      {
         "player_id": 223,
         "special": "",
         "frags": 0,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 2,
         "self_kills": 0
       }
     ]
@@ -12488,18 +12488,18 @@
         "self_kills": 5
       },
       {
-        "player_id": 155,
-        "special": "",
-        "frags": 2,
-        "frags_against": 3,
-        "self_kills": 0
-      },
-      {
         "player_id": 224,
         "special": "",
         "frags": 2,
         "frags_against": 3,
         "self_kills": 1
+      },
+      {
+        "player_id": 155,
+        "special": "",
+        "frags": 2,
+        "frags_against": 3,
+        "self_kills": 0
       },
       {
         "player_id": 133,
@@ -12525,18 +12525,18 @@
     "time_end": "12:19",
     "players": [
       {
-        "player_id": 104,
-        "special": "B",
-        "frags": 16,
-        "frags_against": 15,
-        "self_kills": 2
-      },
-      {
         "player_id": 224,
         "special": "",
         "frags": 16,
         "frags_against": 7,
         "self_kills": 0
+      },
+      {
+        "player_id": 104,
+        "special": "B",
+        "frags": 16,
+        "frags_against": 15,
+        "self_kills": 2
       },
       {
         "player_id": 85,
@@ -12625,17 +12625,17 @@
         "self_kills": 0
       },
       {
-        "player_id": 155,
-        "special": "",
-        "frags": 1,
-        "frags_against": 2,
-        "self_kills": 0
-      },
-      {
         "player_id": 209,
         "special": "",
         "frags": 1,
         "frags_against": 0,
+        "self_kills": 0
+      },
+      {
+        "player_id": 155,
+        "special": "",
+        "frags": 1,
+        "frags_against": 2,
         "self_kills": 0
       },
       {
@@ -12713,18 +12713,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 126,
-        "special": "B",
-        "frags": 5,
-        "frags_against": 6,
-        "self_kills": 1
-      },
-      {
         "player_id": 73,
         "special": "B",
         "frags": 5,
         "frags_against": 13,
         "self_kills": 0
+      },
+      {
+        "player_id": 126,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 6,
+        "self_kills": 1
       },
       {
         "player_id": 39,
@@ -13272,18 +13272,18 @@
         "self_kills": 2
       },
       {
-        "player_id": 104,
-        "special": "B",
-        "frags": 7,
-        "frags_against": 16,
-        "self_kills": 1
-      },
-      {
         "player_id": 121,
         "special": "B",
         "frags": 7,
         "frags_against": 12,
         "self_kills": 2
+      },
+      {
+        "player_id": 104,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 16,
+        "self_kills": 1
       },
       {
         "player_id": 113,
@@ -13374,18 +13374,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 126,
-        "special": "B",
-        "frags": 7,
-        "frags_against": 25,
-        "self_kills": 4
-      },
-      {
         "player_id": 113,
         "special": "B",
         "frags": 7,
         "frags_against": 23,
         "self_kills": 1
+      },
+      {
+        "player_id": 126,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 25,
+        "self_kills": 4
       },
       {
         "player_id": 121,
@@ -13585,18 +13585,18 @@
         "self_kills": 1
       },
       {
-        "player_id": 126,
-        "special": "B",
-        "frags": 8,
-        "frags_against": 14,
-        "self_kills": 1
-      },
-      {
         "player_id": 121,
         "special": "B",
         "frags": 8,
         "frags_against": 7,
         "self_kills": 4
+      },
+      {
+        "player_id": 126,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 14,
+        "self_kills": 1
       },
       {
         "player_id": 134,
@@ -13773,18 +13773,18 @@
         "self_kills": 4
       },
       {
-        "player_id": 131,
-        "special": "B",
-        "frags": 11,
-        "frags_against": 24,
-        "self_kills": 2
-      },
-      {
         "player_id": 27,
         "special": "B",
         "frags": 11,
         "frags_against": 25,
         "self_kills": 3
+      },
+      {
+        "player_id": 131,
+        "special": "B",
+        "frags": 11,
+        "frags_against": 24,
+        "self_kills": 2
       },
       {
         "player_id": 133,
@@ -13875,18 +13875,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 120,
-        "special": "B",
-        "frags": 12,
-        "frags_against": 24,
-        "self_kills": 3
-      },
-      {
         "player_id": 121,
         "special": "B",
         "frags": 12,
         "frags_against": 23,
         "self_kills": 2
+      },
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 24,
+        "self_kills": 3
       },
       {
         "player_id": 115,
@@ -13933,18 +13933,18 @@
         "self_kills": 0
       },
       {
-        "player_id": 120,
-        "special": "B",
-        "frags": 19,
-        "frags_against": 25,
-        "self_kills": 0
-      },
-      {
         "player_id": 121,
         "special": "B",
         "frags": 19,
         "frags_against": 20,
         "self_kills": 2
+      },
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 25,
+        "self_kills": 0
       },
       {
         "player_id": 133,
@@ -14049,17 +14049,17 @@
         "self_kills": 1
       },
       {
-        "player_id": 115,
-        "special": "B",
-        "frags": 15,
-        "frags_against": 19,
-        "self_kills": 1
-      },
-      {
         "player_id": 121,
         "special": "B",
         "frags": 15,
         "frags_against": 18,
+        "self_kills": 1
+      },
+      {
+        "player_id": 115,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 19,
         "self_kills": 1
       },
       {
@@ -14193,17 +14193,17 @@
         "self_kills": 3
       },
       {
-        "player_id": 64,
-        "special": "B",
-        "frags": 0,
-        "frags_against": 0,
-        "self_kills": 0
-      },
-      {
         "player_id": 133,
         "special": "",
         "frags": 0,
         "frags_against": 1,
+        "self_kills": 0
+      },
+      {
+        "player_id": 64,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 0,
         "self_kills": 0
       }
     ]
