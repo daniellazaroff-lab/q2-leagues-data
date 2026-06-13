@@ -193,7 +193,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 14,
@@ -236,7 +236,7 @@
       "Fall": 1,
       "Grenade": 2
     },
-    "elo": 804.66
+    "elo": 1070.8
   },
   {
     "id": 15,
@@ -274,7 +274,7 @@
       "BFG10K": 1,
       "Lava": 1
     },
-    "elo": 830.6
+    "elo": 1000.42
   },
   {
     "id": 16,
@@ -288,7 +288,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 17,
@@ -327,7 +327,7 @@
       "Rocket": 11,
       "Suicide": 2
     },
-    "elo": 806.42
+    "elo": 991.68
   },
   {
     "id": 18,
@@ -367,7 +367,7 @@
       "BFG10K": 2,
       "Grenade": 1
     },
-    "elo": 822.79
+    "elo": 966.33
   },
   {
     "id": 19,
@@ -396,7 +396,7 @@
     "self_kills_by_type": {
       "Grenade": 2
     },
-    "elo": 813.31
+    "elo": 1031.38
   },
   {
     "id": 20,
@@ -433,7 +433,7 @@
       "BFG10K": 3,
       "Fall": 1
     },
-    "elo": 804.25
+    "elo": 960.2
   },
   {
     "id": 21,
@@ -447,7 +447,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 22,
@@ -482,7 +482,7 @@
       "Rocket": 3,
       "BFG10K": 1
     },
-    "elo": 800.73
+    "elo": 977.21
   },
   {
     "id": 23,
@@ -524,7 +524,7 @@
       "Lava": 3,
       "Fall": 2
     },
-    "elo": 810.17
+    "elo": 930.67
   },
   {
     "id": 24,
@@ -557,7 +557,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 762.44
+    "elo": 845.52
   },
   {
     "id": 25,
@@ -593,7 +593,7 @@
       "Suicide": 1,
       "Rocket": 1
     },
-    "elo": 791.44
+    "elo": 949.17
   },
   {
     "id": 26,
@@ -631,7 +631,7 @@
       "Grenade": 3,
       "Rocket": 12
     },
-    "elo": 840.6
+    "elo": 893.95
   },
   {
     "id": 27,
@@ -673,7 +673,7 @@
       "Laser": 3,
       "Fall": 2
     },
-    "elo": 802.84
+    "elo": 869.91
   },
   {
     "id": 28,
@@ -711,7 +711,7 @@
       "BFG10K": 2,
       "Lava": 1
     },
-    "elo": 794.18
+    "elo": 930.62
   },
   {
     "id": 29,
@@ -751,7 +751,7 @@
       "Grenade": 2,
       "Laser": 3
     },
-    "elo": 744.15
+    "elo": 903.64
   },
   {
     "id": 30,
@@ -789,7 +789,7 @@
       "Laser": 3,
       "BFG10K": 3
     },
-    "elo": 811.46
+    "elo": 991.63
   },
   {
     "id": 31,
@@ -828,7 +828,7 @@
       "Laser": 6,
       "Grenade": 1
     },
-    "elo": 827.68
+    "elo": 1095.47
   },
   {
     "id": 32,
@@ -863,7 +863,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 831.56
+    "elo": 1008.89
   },
   {
     "id": 33,
@@ -901,7 +901,7 @@
       "Fall": 1,
       "Rocket": 3
     },
-    "elo": 838.22
+    "elo": 975.62
   },
   {
     "id": 34,
@@ -924,7 +924,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 794.28
+    "elo": 964.41
   },
   {
     "id": 35,
@@ -955,7 +955,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 804.57
+    "elo": 965.15
   },
   {
     "id": 36,
@@ -969,7 +969,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 37,
@@ -983,7 +983,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 38,
@@ -997,7 +997,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 39,
@@ -1037,7 +1037,7 @@
       "Grenade": 1,
       "Rocket": 8
     },
-    "elo": 834.33
+    "elo": 983.41
   },
   {
     "id": 40,
@@ -1063,7 +1063,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 786.68
+    "elo": 932.02
   },
   {
     "id": 41,
@@ -1103,7 +1103,7 @@
       "Grenade": 3,
       "Fall": 2
     },
-    "elo": 741.68
+    "elo": 828.91
   },
   {
     "id": 42,
@@ -1131,7 +1131,7 @@
     "self_kills_by_type": {
       "Lava": 1
     },
-    "elo": 786.56
+    "elo": 943.28
   },
   {
     "id": 43,
@@ -1167,7 +1167,7 @@
       "Grenade": 2,
       "BFG10K": 2
     },
-    "elo": 786.28
+    "elo": 970.74
   },
   {
     "id": 44,
@@ -1208,7 +1208,7 @@
       "Laser": 3,
       "Grenade": 1
     },
-    "elo": 795.87
+    "elo": 820.67
   },
   {
     "id": 45,
@@ -1222,7 +1222,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 46,
@@ -1258,7 +1258,7 @@
     "self_kills_by_type": {
       "Rocket": 4
     },
-    "elo": 803.69
+    "elo": 943.19
   },
   {
     "id": 47,
@@ -1272,7 +1272,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 48,
@@ -1286,7 +1286,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 49,
@@ -1324,7 +1324,7 @@
       "Laser": 2,
       "Rocket": 3
     },
-    "elo": 783.25
+    "elo": 878.17
   },
   {
     "id": 50,
@@ -1358,7 +1358,7 @@
       "BFG10K": 1,
       "Lava": 1
     },
-    "elo": 785.69
+    "elo": 902.19
   },
   {
     "id": 51,
@@ -1386,7 +1386,7 @@
     "self_kills_by_type": {
       "BFG10K": 2
     },
-    "elo": 827.17
+    "elo": 1030.91
   },
   {
     "id": 52,
@@ -1422,7 +1422,7 @@
     "self_kills_by_type": {
       "Suicide": 1
     },
-    "elo": 824.07
+    "elo": 1019.37
   },
   {
     "id": 53,
@@ -1446,7 +1446,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 812.95
+    "elo": 1026.4
   },
   {
     "id": 54,
@@ -1485,7 +1485,7 @@
       "Suicide": 1,
       "Fall": 1
     },
-    "elo": 829.84
+    "elo": 940.44
   },
   {
     "id": 55,
@@ -1499,7 +1499,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 56,
@@ -1530,7 +1530,7 @@
     "self_kills_by_type": {
       "Laser": 1
     },
-    "elo": 806.15
+    "elo": 1012.69
   },
   {
     "id": 57,
@@ -1574,7 +1574,7 @@
       "Lava": 3,
       "Fall": 3
     },
-    "elo": 786.71
+    "elo": 863.77
   },
   {
     "id": 58,
@@ -1611,7 +1611,7 @@
       "Rocket": 5,
       "Laser": 2
     },
-    "elo": 776.1
+    "elo": 911.42
   },
   {
     "id": 59,
@@ -1652,7 +1652,7 @@
       "Rocket": 9,
       "Grenade": 3
     },
-    "elo": 818.43
+    "elo": 919.17
   },
   {
     "id": 60,
@@ -1694,7 +1694,7 @@
       "Lava": 5,
       "Laser": 8
     },
-    "elo": 788.72
+    "elo": 897.44
   },
   {
     "id": 61,
@@ -1735,7 +1735,7 @@
       "Fall": 1,
       "Grenade": 4
     },
-    "elo": 792.3
+    "elo": 918.23
   },
   {
     "id": 62,
@@ -1769,7 +1769,7 @@
       "BFG10K": 1,
       "Rocket": 1
     },
-    "elo": 788.21
+    "elo": 953.46
   },
   {
     "id": 63,
@@ -1805,7 +1805,7 @@
       "Rocket": 2,
       "Laser": 4
     },
-    "elo": 771.27
+    "elo": 931.87
   },
   {
     "id": 64,
@@ -1846,7 +1846,7 @@
       "Lava": 1,
       "Fall": 1
     },
-    "elo": 817.37
+    "elo": 964.03
   },
   {
     "id": 65,
@@ -1877,7 +1877,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 781.73
+    "elo": 942.36
   },
   {
     "id": 66,
@@ -1916,7 +1916,7 @@
       "Grenade": 1,
       "BFG10K": 2
     },
-    "elo": 805.06
+    "elo": 918.35
   },
   {
     "id": 67,
@@ -1946,7 +1946,7 @@
       "Fall": 1,
       "BFG10K": 1
     },
-    "elo": 789.24
+    "elo": 958.53
   },
   {
     "id": 68,
@@ -1981,7 +1981,7 @@
     "self_kills_by_type": {
       "Rocket": 6
     },
-    "elo": 811.55
+    "elo": 979.46
   },
   {
     "id": 69,
@@ -2020,7 +2020,7 @@
       "Laser": 1,
       "Grenade": 1
     },
-    "elo": 850.57
+    "elo": 1004.19
   },
   {
     "id": 70,
@@ -2047,7 +2047,7 @@
     "self_kills_by_type": {
       "Lava": 1
     },
-    "elo": 821.07
+    "elo": 1051.18
   },
   {
     "id": 71,
@@ -2061,7 +2061,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 72,
@@ -2096,7 +2096,7 @@
       "Rocket": 2,
       "Lava": 1
     },
-    "elo": 856.25
+    "elo": 1042.64
   },
   {
     "id": 73,
@@ -2134,7 +2134,7 @@
       "Grenade": 3,
       "Rocket": 7
     },
-    "elo": 801.19
+    "elo": 931.4
   },
   {
     "id": 74,
@@ -2148,7 +2148,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 75,
@@ -2189,7 +2189,7 @@
       "Lava": 2,
       "Laser": 7
     },
-    "elo": 753.85
+    "elo": 916.1
   },
   {
     "id": 76,
@@ -2222,7 +2222,7 @@
       "Grenade": 2,
       "BFG10K": 3
     },
-    "elo": 789.53
+    "elo": 990.05
   },
   {
     "id": 77,
@@ -2242,7 +2242,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 802.33
+    "elo": 998.88
   },
   {
     "id": 78,
@@ -2256,7 +2256,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 79,
@@ -2293,7 +2293,7 @@
       "Rocket": 6,
       "Fall": 1
     },
-    "elo": 833.11
+    "elo": 1008.44
   },
   {
     "id": 80,
@@ -2314,7 +2314,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 789.73
+    "elo": 952.26
   },
   {
     "id": 81,
@@ -2328,7 +2328,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 82,
@@ -2363,7 +2363,7 @@
       "Grenade": 1,
       "Rocket": 1
     },
-    "elo": 802.24
+    "elo": 958.11
   },
   {
     "id": 83,
@@ -2394,7 +2394,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 781.8
+    "elo": 946.83
   },
   {
     "id": 84,
@@ -2416,7 +2416,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 803.36
+    "elo": 1000.26
   },
   {
     "id": 85,
@@ -2450,7 +2450,7 @@
     "self_kills_by_type": {
       "BFG10K": 1
     },
-    "elo": 826.14
+    "elo": 978.36
   },
   {
     "id": 86,
@@ -2487,7 +2487,7 @@
     "self_kills_by_type": {
       "Rocket": 11
     },
-    "elo": 856.08
+    "elo": 946.69
   },
   {
     "id": 87,
@@ -2527,7 +2527,7 @@
       "Laser": 2,
       "BFG10K": 1
     },
-    "elo": 804.3
+    "elo": 966.54
   },
   {
     "id": 88,
@@ -2541,7 +2541,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 89,
@@ -2555,7 +2555,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 90,
@@ -2569,7 +2569,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 91,
@@ -2613,7 +2613,7 @@
       "Lava": 5,
       "Fall": 1
     },
-    "elo": 754.1
+    "elo": 858.0
   },
   {
     "id": 92,
@@ -2634,7 +2634,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 801.78
+    "elo": 1003.06
   },
   {
     "id": 93,
@@ -2679,7 +2679,7 @@
       "Lava": 2,
       "Grenade": 2
     },
-    "elo": 788.21
+    "elo": 866.97
   },
   {
     "id": 94,
@@ -2719,7 +2719,7 @@
       "Grenade": 2,
       "BFG10K": 1
     },
-    "elo": 793.68
+    "elo": 917.47
   },
   {
     "id": 95,
@@ -2761,7 +2761,7 @@
       "Lava": 2,
       "Fall": 2
     },
-    "elo": 817.19
+    "elo": 945.22
   },
   {
     "id": 96,
@@ -2775,7 +2775,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 97,
@@ -2789,7 +2789,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 98,
@@ -2803,7 +2803,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 99,
@@ -2833,7 +2833,7 @@
     "self_kills_by_type": {
       "BFG10K": 2
     },
-    "elo": 786.99
+    "elo": 911.01
   },
   {
     "id": 100,
@@ -2873,7 +2873,7 @@
       "Fall": 2,
       "Grenade": 1
     },
-    "elo": 820.38
+    "elo": 931.76
   },
   {
     "id": 101,
@@ -2887,7 +2887,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 102,
@@ -2927,7 +2927,7 @@
       "Rocket": 6,
       "Laser": 1
     },
-    "elo": 838.54
+    "elo": 977.5
   },
   {
     "id": 103,
@@ -2964,7 +2964,7 @@
       "BFG10K": 1,
       "Grenade": 1
     },
-    "elo": 805.21
+    "elo": 978.1
   },
   {
     "id": 104,
@@ -3007,7 +3007,7 @@
       "Grenade": 3,
       "Laser": 1
     },
-    "elo": 834.48
+    "elo": 1037.15
   },
   {
     "id": 105,
@@ -3046,7 +3046,7 @@
       "BFG10K": 4,
       "Laser": 2
     },
-    "elo": 820.91
+    "elo": 853.1
   },
   {
     "id": 106,
@@ -3080,7 +3080,7 @@
     "self_kills_by_type": {
       "Rocket": 4
     },
-    "elo": 802.92
+    "elo": 976.67
   },
   {
     "id": 107,
@@ -3094,7 +3094,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 108,
@@ -3132,7 +3132,7 @@
       "BFG10K": 3,
       "Rocket": 3
     },
-    "elo": 791.68
+    "elo": 910.63
   },
   {
     "id": 109,
@@ -3158,7 +3158,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 791.63
+    "elo": 948.02
   },
   {
     "id": 110,
@@ -3172,7 +3172,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 111,
@@ -3209,7 +3209,7 @@
       "Grenade": 2,
       "Laser": 1
     },
-    "elo": 800.58
+    "elo": 1007.97
   },
   {
     "id": 112,
@@ -3248,7 +3248,7 @@
       "Rocket": 10,
       "BFG10K": 3
     },
-    "elo": 791.66
+    "elo": 917.35
   },
   {
     "id": 113,
@@ -3288,7 +3288,7 @@
       "Lava": 1,
       "Fall": 1
     },
-    "elo": 802.35
+    "elo": 964.65
   },
   {
     "id": 114,
@@ -3328,7 +3328,7 @@
       "Lava": 1,
       "BFG10K": 5
     },
-    "elo": 860.33
+    "elo": 893.34
   },
   {
     "id": 115,
@@ -3367,7 +3367,7 @@
       "Rocket": 9,
       "Laser": 2
     },
-    "elo": 778.24
+    "elo": 842.94
   },
   {
     "id": 116,
@@ -3381,7 +3381,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 117,
@@ -3407,7 +3407,7 @@
     "self_kills_by_type": {
       "Rocket": 2
     },
-    "elo": 812.51
+    "elo": 1033.67
   },
   {
     "id": 118,
@@ -3447,7 +3447,7 @@
       "Lava": 1,
       "Laser": 4
     },
-    "elo": 826.0
+    "elo": 981.74
   },
   {
     "id": 119,
@@ -3485,7 +3485,7 @@
       "Grenade": 1,
       "Laser": 1
     },
-    "elo": 780.53
+    "elo": 941.16
   },
   {
     "id": 120,
@@ -3526,7 +3526,7 @@
       "Lava": 1,
       "Laser": 1
     },
-    "elo": 801.28
+    "elo": 930.95
   },
   {
     "id": 121,
@@ -3565,7 +3565,7 @@
       "Grenade": 1,
       "BFG10K": 22
     },
-    "elo": 809.55
+    "elo": 962.36
   },
   {
     "id": 122,
@@ -3579,7 +3579,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 800
+    "elo": 1000
   },
   {
     "id": 123,
@@ -3614,7 +3614,7 @@
       "BFG10K": 1,
       "Rocket": 1
     },
-    "elo": 768.93
+    "elo": 887.12
   },
   {
     "id": 124,
@@ -3641,7 +3641,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 783.67
+    "elo": 938.9
   },
   {
     "id": 125,
@@ -3683,7 +3683,7 @@
       "Laser": 2,
       "Lava": 2
     },
-    "elo": 818.81
+    "elo": 1045.36
   },
   {
     "id": 126,
@@ -3723,7 +3723,7 @@
       "Laser": 4,
       "BFG10K": 10
     },
-    "elo": 792.21
+    "elo": 912.34
   },
   {
     "id": 127,
@@ -3758,7 +3758,7 @@
       "BFG10K": 6,
       "Rocket": 4
     },
-    "elo": 827.86
+    "elo": 949.77
   },
   {
     "id": 128,
@@ -3797,7 +3797,7 @@
       "BFG10K": 3,
       "Laser": 1
     },
-    "elo": 777.37
+    "elo": 913.05
   },
   {
     "id": 129,
@@ -3840,7 +3840,7 @@
       "BFG10K": 11,
       "Fall": 2
     },
-    "elo": 831.28
+    "elo": 967.3
   },
   {
     "id": 130,
@@ -3870,7 +3870,7 @@
       "Rocket": 1,
       "Grenade": 1
     },
-    "elo": 824.71
+    "elo": 1056.62
   },
   {
     "id": 131,
@@ -3909,7 +3909,7 @@
       "BFG10K": 1,
       "Grenade": 1
     },
-    "elo": 761.42
+    "elo": 844.24
   },
   {
     "id": 132,
@@ -3945,7 +3945,7 @@
       "BFG10K": 1,
       "Rocket": 1
     },
-    "elo": 803.87
+    "elo": 1036.81
   },
   {
     "id": 133,
@@ -3985,7 +3985,7 @@
       "Lava": 1,
       "Rocket": 6
     },
-    "elo": 805.21
+    "elo": 791.13
   },
   {
     "id": 134,
@@ -4022,7 +4022,7 @@
       "Grenade": 2,
       "Rocket": 2
     },
-    "elo": 959.88
+    "elo": 935.91
   },
   {
     "id": 135,
@@ -4063,7 +4063,7 @@
       "Rocket": 6,
       "BFG10K": 1
     },
-    "elo": 1190.14
+    "elo": 1130.29
   },
   {
     "id": 136,
@@ -4094,7 +4094,7 @@
     "self_kills_by_type": {
       "Lava": 1
     },
-    "elo": 1408.02
+    "elo": 1182.19
   },
   {
     "id": 137,
@@ -4132,7 +4132,7 @@
       "Laser": 1,
       "Grenade": 1
     },
-    "elo": 1356.24
+    "elo": 1182.34
   },
   {
     "id": 138,
@@ -4146,7 +4146,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1200
+    "elo": 1000
   },
   {
     "id": 139,
@@ -4174,7 +4174,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1128.06
+    "elo": 989.75
   },
   {
     "id": 140,
@@ -4195,7 +4195,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1190.26
+    "elo": 999.51
   },
   {
     "id": 141,
@@ -4218,7 +4218,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1190.71
+    "elo": 1013.48
   },
   {
     "id": 142,
@@ -4254,7 +4254,7 @@
       "Lava": 1,
       "Grenade": 1
     },
-    "elo": 1176.49
+    "elo": 1100.02
   },
   {
     "id": 143,
@@ -4274,7 +4274,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1142.41
+    "elo": 967.96
   },
   {
     "id": 144,
@@ -4288,7 +4288,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1200
+    "elo": 1000
   },
   {
     "id": 145,
@@ -4315,7 +4315,7 @@
     "self_kills_by_type": {
       "BFG10K": 1
     },
-    "elo": 1109.22
+    "elo": 986.87
   },
   {
     "id": 146,
@@ -4329,7 +4329,7 @@
     "frags_against_by_weapon": {},
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1200
+    "elo": 1000
   },
   {
     "id": 147,
@@ -4365,7 +4365,7 @@
       "BFG10K": 2,
       "Rocket": 2
     },
-    "elo": 1064.84
+    "elo": 991.77
   },
   {
     "id": 148,
@@ -4384,7 +4384,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1193.2
+    "elo": 998.73
   },
   {
     "id": 149,
@@ -4400,7 +4400,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1196.35
+    "elo": 998.74
   },
   {
     "id": 150,
@@ -4433,7 +4433,7 @@
       "BFG10K": 2,
       "Rocket": 1
     },
-    "elo": 1021.97
+    "elo": 930.1
   },
   {
     "id": 151,
@@ -4467,7 +4467,7 @@
       "Rocket": 2,
       "Grenade": 1
     },
-    "elo": 1412.75
+    "elo": 1233.41
   },
   {
     "id": 152,
@@ -4498,7 +4498,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1258.15
+    "elo": 1107.01
   },
   {
     "id": 153,
@@ -4533,7 +4533,7 @@
       "BFG10K": 1,
       "Lava": 2
     },
-    "elo": 1066.16
+    "elo": 967.65
   },
   {
     "id": 154,
@@ -4561,7 +4561,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1156.23
+    "elo": 998.26
   },
   {
     "id": 155,
@@ -4604,7 +4604,7 @@
       "Lava": 1,
       "Rocket": 1
     },
-    "elo": 961.35
+    "elo": 951.33
   },
   {
     "id": 156,
@@ -4642,7 +4642,7 @@
       "Grenade": 5,
       "Rocket": 1
     },
-    "elo": 1188.5
+    "elo": 1075.89
   },
   {
     "id": 157,
@@ -4683,7 +4683,7 @@
       "Rocket": 2,
       "Lava": 1
     },
-    "elo": 965.72
+    "elo": 828.9
   },
   {
     "id": 158,
@@ -4722,7 +4722,7 @@
       "Rocket": 4,
       "Grenade": 1
     },
-    "elo": 1211.89
+    "elo": 1018.65
   },
   {
     "id": 159,
@@ -4756,7 +4756,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1267.87
+    "elo": 1067.9
   },
   {
     "id": 160,
@@ -4787,7 +4787,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1340.53
+    "elo": 1180.84
   },
   {
     "id": 161,
@@ -4829,7 +4829,7 @@
       "Grenade": 4,
       "BFG10K": 2
     },
-    "elo": 1188.68
+    "elo": 1065.42
   },
   {
     "id": 162,
@@ -4857,7 +4857,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1118.51
+    "elo": 949.59
   },
   {
     "id": 163,
@@ -4888,7 +4888,7 @@
     "self_kills_by_type": {
       "Lava": 1
     },
-    "elo": 1384.33
+    "elo": 1131.66
   },
   {
     "id": 164,
@@ -4906,7 +4906,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1195.48
+    "elo": 1000.26
   },
   {
     "id": 165,
@@ -4932,7 +4932,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 1139.73
+    "elo": 976.04
   },
   {
     "id": 166,
@@ -4954,7 +4954,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1193.22
+    "elo": 1005.89
   },
   {
     "id": 167,
@@ -4984,7 +4984,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1059.14
+    "elo": 927.51
   },
   {
     "id": 168,
@@ -5007,7 +5007,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1112.36
+    "elo": 963.03
   },
   {
     "id": 169,
@@ -5044,7 +5044,7 @@
       "Grenade": 1,
       "Lava": 1
     },
-    "elo": 1015.14
+    "elo": 925.07
   },
   {
     "id": 170,
@@ -5069,7 +5069,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1148.83
+    "elo": 989.51
   },
   {
     "id": 171,
@@ -5089,7 +5089,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1190.4
+    "elo": 999.71
   },
   {
     "id": 172,
@@ -5125,7 +5125,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 1203.87
+    "elo": 1017.32
   },
   {
     "id": 173,
@@ -5157,7 +5157,7 @@
     "self_kills_by_type": {
       "Rocket": 2
     },
-    "elo": 1068.1
+    "elo": 936.47
   },
   {
     "id": 174,
@@ -5188,7 +5188,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1070.78
+    "elo": 957.15
   },
   {
     "id": 175,
@@ -5222,7 +5222,7 @@
       "Grenade": 1,
       "Rocket": 1
     },
-    "elo": 1136.59
+    "elo": 1017.02
   },
   {
     "id": 176,
@@ -5239,7 +5239,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1177.39
+    "elo": 991.05
   },
   {
     "id": 177,
@@ -5261,7 +5261,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1192.58
+    "elo": 1003.87
   },
   {
     "id": 178,
@@ -5287,7 +5287,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1183.17
+    "elo": 1003.35
   },
   {
     "id": 179,
@@ -5322,7 +5322,7 @@
       "Rocket": 2,
       "Grenade": 1
     },
-    "elo": 1218.08
+    "elo": 1107.08
   },
   {
     "id": 180,
@@ -5353,7 +5353,7 @@
     "self_kills_by_type": {
       "Laser": 1
     },
-    "elo": 1187.23
+    "elo": 1012.88
   },
   {
     "id": 181,
@@ -5383,7 +5383,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1014.38
+    "elo": 887.32
   },
   {
     "id": 182,
@@ -5401,7 +5401,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1190.79
+    "elo": 997.76
   },
   {
     "id": 183,
@@ -5422,7 +5422,7 @@
     "self_kills_by_type": {
       "BFG10K": 1
     },
-    "elo": 1178.57
+    "elo": 990.06
   },
   {
     "id": 184,
@@ -5438,7 +5438,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1196.42
+    "elo": 998.88
   },
   {
     "id": 185,
@@ -5455,7 +5455,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1192.87
+    "elo": 997.9
   },
   {
     "id": 186,
@@ -5477,7 +5477,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1176.22
+    "elo": 994.32
   },
   {
     "id": 187,
@@ -5516,7 +5516,7 @@
       "Lava": 1,
       "BFG10K": 1
     },
-    "elo": 902.09
+    "elo": 921.5
   },
   {
     "id": 188,
@@ -5553,7 +5553,7 @@
       "Rocket": 1,
       "Grenade": 2
     },
-    "elo": 1206.45
+    "elo": 1070.9
   },
   {
     "id": 189,
@@ -5592,7 +5592,7 @@
       "Grenade": 2,
       "BFG10K": 1
     },
-    "elo": 1147.99
+    "elo": 1061.61
   },
   {
     "id": 190,
@@ -5610,7 +5610,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1167.08
+    "elo": 988.51
   },
   {
     "id": 191,
@@ -5630,7 +5630,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1213.05
+    "elo": 1036.97
   },
   {
     "id": 192,
@@ -5648,7 +5648,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1194.52
+    "elo": 1001.37
   },
   {
     "id": 193,
@@ -5681,7 +5681,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1180.86
+    "elo": 1138.93
   },
   {
     "id": 194,
@@ -5704,7 +5704,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1173.73
+    "elo": 995.83
   },
   {
     "id": 195,
@@ -5723,7 +5723,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1193.18
+    "elo": 998.48
   },
   {
     "id": 196,
@@ -5763,7 +5763,7 @@
       "Rocket": 5,
       "Lava": 1
     },
-    "elo": 988.11
+    "elo": 902.47
   },
   {
     "id": 197,
@@ -5785,7 +5785,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1307.92
+    "elo": 1076.71
   },
   {
     "id": 198,
@@ -5822,7 +5822,7 @@
       "Rocket": 1,
       "Grenade": 2
     },
-    "elo": 1297.08
+    "elo": 1169.47
   },
   {
     "id": 199,
@@ -5857,7 +5857,7 @@
       "Laser": 1,
       "Rocket": 1
     },
-    "elo": 1106.37
+    "elo": 979.39
   },
   {
     "id": 200,
@@ -5893,7 +5893,7 @@
     "self_kills_by_type": {
       "Grenade": 1
     },
-    "elo": 972.84
+    "elo": 912.1
   },
   {
     "id": 201,
@@ -5914,7 +5914,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1156.66
+    "elo": 986.44
   },
   {
     "id": 202,
@@ -5950,7 +5950,7 @@
       "BFG10K": 1,
       "Rocket": 2
     },
-    "elo": 1272.5
+    "elo": 1153.08
   },
   {
     "id": 203,
@@ -5981,7 +5981,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 909.48
+    "elo": 835.06
   },
   {
     "id": 204,
@@ -6011,7 +6011,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1178.6
+    "elo": 1070.15
   },
   {
     "id": 205,
@@ -6043,7 +6043,7 @@
     "self_kills_by_type": {
       "Rocket": 2
     },
-    "elo": 1172.35
+    "elo": 1055.23
   },
   {
     "id": 206,
@@ -6071,7 +6071,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 1170.67
+    "elo": 1011.09
   },
   {
     "id": 207,
@@ -6111,7 +6111,7 @@
       "Rocket": 1,
       "BFG10K": 1
     },
-    "elo": 1080.87
+    "elo": 1015.29
   },
   {
     "id": 208,
@@ -6150,7 +6150,7 @@
       "Grenade": 1,
       "Rocket": 3
     },
-    "elo": 913.8
+    "elo": 876.61
   },
   {
     "id": 209,
@@ -6186,7 +6186,7 @@
       "Grenade": 1,
       "Rocket": 1
     },
-    "elo": 1340.38
+    "elo": 1225.27
   },
   {
     "id": 210,
@@ -6207,7 +6207,7 @@
     "self_kills_by_type": {
       "Grenade": 1
     },
-    "elo": 1160.9
+    "elo": 983.7
   },
   {
     "id": 211,
@@ -6229,7 +6229,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1274.66
+    "elo": 1079.97
   },
   {
     "id": 212,
@@ -6251,7 +6251,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1164.93
+    "elo": 986.66
   },
   {
     "id": 213,
@@ -6280,7 +6280,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1122.69
+    "elo": 975.44
   },
   {
     "id": 214,
@@ -6323,7 +6323,7 @@
       "Grenade": 1,
       "BFG10K": 1
     },
-    "elo": 1099.91
+    "elo": 1036.71
   },
   {
     "id": 215,
@@ -6351,7 +6351,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1356.64
+    "elo": 1129.36
   },
   {
     "id": 216,
@@ -6389,7 +6389,7 @@
       "Rocket": 1,
       "Laser": 1
     },
-    "elo": 1212.93
+    "elo": 1118.97
   },
   {
     "id": 217,
@@ -6414,7 +6414,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 1172.46
+    "elo": 1003.54
   },
   {
     "id": 218,
@@ -6451,7 +6451,7 @@
       "Grenade": 2,
       "Rocket": 2
     },
-    "elo": 996.81
+    "elo": 879.22
   },
   {
     "id": 219,
@@ -6488,7 +6488,7 @@
     "self_kills_by_type": {
       "Rocket": 2
     },
-    "elo": 1195.83
+    "elo": 1007.32
   },
   {
     "id": 220,
@@ -6523,7 +6523,7 @@
     "self_kills_by_type": {
       "Rocket": 2
     },
-    "elo": 1203.61
+    "elo": 1050.97
   },
   {
     "id": 221,
@@ -6558,7 +6558,7 @@
       "Rocket": 2,
       "BFG10K": 4
     },
-    "elo": 1266.4
+    "elo": 1139.75
   },
   {
     "id": 222,
@@ -6597,7 +6597,7 @@
       "Grenade": 1,
       "Rocket": 2
     },
-    "elo": 1306.38
+    "elo": 1187.91
   },
   {
     "id": 223,
@@ -6624,7 +6624,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 1267.59
+    "elo": 1062.83
   },
   {
     "id": 224,
@@ -6656,7 +6656,7 @@
     "self_kills_by_type": {
       "Rocket": 1
     },
-    "elo": 1211.13
+    "elo": 1033.54
   },
   {
     "id": 225,
@@ -6686,7 +6686,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1008.59
+    "elo": 916.01
   },
   {
     "id": 226,
@@ -6717,7 +6717,7 @@
       "BFG10K": 1,
       "Rocket": 2
     },
-    "elo": 1118.42
+    "elo": 990.14
   },
   {
     "id": 227,
@@ -6751,7 +6751,7 @@
     "self_kills_by_type": {
       "BFG10K": 1
     },
-    "elo": 1142.84
+    "elo": 1020.72
   },
   {
     "id": 228,
@@ -6773,7 +6773,7 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1044.99
+    "elo": 939.58
   },
   {
     "id": 229,
@@ -6795,6 +6795,6 @@
     },
     "total_self_kills": 0,
     "self_kills_by_type": {},
-    "elo": 1191.37
+    "elo": 1001.07
   }
 ]
