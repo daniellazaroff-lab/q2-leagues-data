@@ -25837,5 +25837,77 @@
         "elo_after": 600.82
       }
     ]
+  },
+  {
+    "id": 343,
+    "name": "Corridors",
+    "date": "2026-06-13",
+    "time_start": "21:28",
+    "time_end": "21:31",
+    "players": [
+      {
+        "player_id": 309,
+        "special": "",
+        "frags": 30,
+        "frags_against": 25,
+        "self_kills": 0,
+        "elo_before": 1001.41,
+        "elo_after": 995.87
+      },
+      {
+        "player_id": 40,
+        "special": "B",
+        "frags": 24,
+        "frags_against": 13,
+        "self_kills": 2,
+        "elo_before": 980.41,
+        "elo_after": 1032.44
+      },
+      {
+        "player_id": 214,
+        "special": "",
+        "frags": 19,
+        "frags_against": 12,
+        "self_kills": 0,
+        "elo_before": 1028.61,
+        "elo_after": 1039.64
+      },
+      {
+        "player_id": 81,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 27,
+        "self_kills": 1,
+        "elo_before": 901.71,
+        "elo_after": 866.29
+      },
+      {
+        "player_id": 91,
+        "special": "B",
+        "frags": 12,
+        "frags_against": 21,
+        "self_kills": 2,
+        "elo_before": 916.52,
+        "elo_after": 923.45
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 600.82,
+        "elo_after": 596.98
+      },
+      {
+        "player_id": 29,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 5,
+        "self_kills": 1,
+        "elo_before": 958.92,
+        "elo_after": 924.73
+      }
+    ]
   }
 ]
