@@ -27691,5 +27691,68 @@
         "elo_after": 599.23
       }
     ]
+  },
+  {
+    "id": 370,
+    "name": "War Room",
+    "date": "2026-06-14",
+    "time_start": "15:29",
+    "time_end": "15:29",
+    "players": [
+      {
+        "player_id": 64,
+        "special": "B",
+        "frags": 30,
+        "frags_against": 20,
+        "self_kills": 2,
+        "elo_before": 916.05,
+        "elo_after": 966.98
+      },
+      {
+        "player_id": 91,
+        "special": "B",
+        "frags": 24,
+        "frags_against": 21,
+        "self_kills": 2,
+        "elo_before": 861.42,
+        "elo_after": 903.62
+      },
+      {
+        "player_id": 120,
+        "special": "B",
+        "frags": 20,
+        "frags_against": 16,
+        "self_kills": 2,
+        "elo_before": 877.46,
+        "elo_after": 906.95
+      },
+      {
+        "player_id": 112,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 20,
+        "self_kills": 3,
+        "elo_before": 874.43,
+        "elo_after": 869.98
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 26,
+        "self_kills": 0,
+        "elo_before": 953.1,
+        "elo_after": 818.85
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 1,
+        "frags_against": 2,
+        "self_kills": 0,
+        "elo_before": 599.23,
+        "elo_after": 600.31
+      }
+    ]
   }
 ]
