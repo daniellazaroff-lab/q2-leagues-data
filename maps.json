@@ -25675,5 +25675,95 @@
         "elo_after": 601.28
       }
     ]
+  },
+  {
+    "id": 341,
+    "name": "Overflow",
+    "date": "2026-06-13",
+    "time_start": "20:51",
+    "time_end": "20:55",
+    "players": [
+      {
+        "player_id": 81,
+        "special": "B",
+        "frags": 21,
+        "frags_against": 25,
+        "self_kills": 5,
+        "elo_before": 974.52,
+        "elo_after": 962.75
+      },
+      {
+        "player_id": 91,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 23,
+        "self_kills": 4,
+        "elo_before": 1021.24,
+        "elo_after": 991.11
+      },
+      {
+        "player_id": 40,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 27,
+        "self_kills": 4,
+        "elo_before": 1008.3,
+        "elo_after": 952.0
+      },
+      {
+        "player_id": 29,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 12,
+        "self_kills": 1,
+        "elo_before": 866.52,
+        "elo_after": 932.39
+      },
+      {
+        "player_id": 308,
+        "special": "",
+        "frags": 13,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 1043.47,
+        "elo_after": 1043.47
+      },
+      {
+        "player_id": 113,
+        "special": "B",
+        "frags": 11,
+        "frags_against": 16,
+        "self_kills": 4,
+        "elo_before": 964.39,
+        "elo_after": 961.5
+      },
+      {
+        "player_id": 214,
+        "special": "",
+        "frags": 6,
+        "frags_against": 10,
+        "self_kills": 1,
+        "elo_before": 1066.61,
+        "elo_after": 1028.61
+      },
+      {
+        "player_id": 101,
+        "special": "B",
+        "frags": 2,
+        "frags_against": 4,
+        "self_kills": 1,
+        "elo_before": 964.64,
+        "elo_after": 957.62
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 601.28,
+        "elo_after": 601.05
+      }
+    ]
   }
 ]
