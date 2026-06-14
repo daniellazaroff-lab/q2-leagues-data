@@ -26539,5 +26539,68 @@
         "elo_after": 590.95
       }
     ]
+  },
+  {
+    "id": 353,
+    "name": "Corridors",
+    "date": "2026-06-13",
+    "time_start": "23:34",
+    "time_end": "23:34",
+    "players": [
+      {
+        "player_id": 268,
+        "special": "",
+        "frags": 30,
+        "frags_against": 19,
+        "self_kills": 1,
+        "elo_before": 995.29,
+        "elo_after": 991.51
+      },
+      {
+        "player_id": 40,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 12,
+        "self_kills": 3,
+        "elo_before": 835.59,
+        "elo_after": 911.23
+      },
+      {
+        "player_id": 81,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 23,
+        "self_kills": 1,
+        "elo_before": 868.75,
+        "elo_after": 892.32
+      },
+      {
+        "player_id": 91,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 23,
+        "self_kills": 3,
+        "elo_before": 871.67,
+        "elo_after": 827.28
+      },
+      {
+        "player_id": 121,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 20,
+        "self_kills": 3,
+        "elo_before": 932.7,
+        "elo_after": 863.0
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 590.95,
+        "elo_after": 590.61
+      }
+    ]
   }
 ]
