@@ -36448,5 +36448,95 @@
         "elo_after": 950.44
       }
     ]
+  },
+  {
+    "id": 478,
+    "name": "Agony",
+    "date": "2026-06-16",
+    "time_start": "02:33",
+    "time_end": "02:39",
+    "players": [
+      {
+        "player_id": 29,
+        "special": "B",
+        "frags": 22,
+        "frags_against": 18,
+        "self_kills": 0,
+        "elo_before": 837.31,
+        "elo_after": 880.03
+      },
+      {
+        "player_id": 59,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 21,
+        "self_kills": 0,
+        "elo_before": 880.07,
+        "elo_after": 869.52
+      },
+      {
+        "player_id": 34,
+        "special": "B",
+        "frags": 16,
+        "frags_against": 16,
+        "self_kills": 2,
+        "elo_before": 920.35,
+        "elo_after": 929.14
+      },
+      {
+        "player_id": 73,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 18,
+        "self_kills": 2,
+        "elo_before": 898.83,
+        "elo_after": 890.68
+      },
+      {
+        "player_id": 46,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 11,
+        "self_kills": 0,
+        "elo_before": 892.95,
+        "elo_after": 890.9
+      },
+      {
+        "player_id": 105,
+        "special": "B",
+        "frags": 6,
+        "frags_against": 5,
+        "self_kills": 0,
+        "elo_before": 1058.73,
+        "elo_after": 1026.68
+      },
+      {
+        "player_id": 204,
+        "special": "",
+        "frags": 2,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 1141.33,
+        "elo_after": 1140.46
+      },
+      {
+        "player_id": 137,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 1218.01,
+        "elo_after": 1216.21
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 923.53,
+        "elo_after": 922.49
+      }
+    ]
   }
 ]
