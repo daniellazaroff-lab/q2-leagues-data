@@ -34378,5 +34378,77 @@
         "elo_after": 1014.36
       }
     ]
+  },
+  {
+    "id": 453,
+    "name": "Cold Steel",
+    "date": "2026-06-15",
+    "time_start": "22:15",
+    "time_end": "22:17",
+    "players": [
+      {
+        "player_id": 136,
+        "special": "",
+        "frags": 30,
+        "frags_against": 7,
+        "self_kills": 0,
+        "elo_before": 1364.0,
+        "elo_after": 1382.47
+      },
+      {
+        "player_id": 135,
+        "special": "",
+        "frags": 20,
+        "frags_against": 12,
+        "self_kills": 1,
+        "elo_before": 1226.25,
+        "elo_after": 1248.79
+      },
+      {
+        "player_id": 61,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 14,
+        "self_kills": 0,
+        "elo_before": 922.54,
+        "elo_after": 912.33
+      },
+      {
+        "player_id": 103,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 11,
+        "self_kills": 0,
+        "elo_before": 947.36,
+        "elo_after": 960.03
+      },
+      {
+        "player_id": 358,
+        "special": "",
+        "frags": 3,
+        "frags_against": 16,
+        "self_kills": 0,
+        "elo_before": 912.76,
+        "elo_after": 884.52
+      },
+      {
+        "player_id": 359,
+        "special": "",
+        "frags": 1,
+        "frags_against": 4,
+        "self_kills": 0,
+        "elo_before": 989.61,
+        "elo_after": 989.61
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 1014.36,
+        "elo_after": 1010.52
+      }
+    ]
   }
 ]
