@@ -33559,5 +33559,95 @@
         "elo_after": 991.12
       }
     ]
+  },
+  {
+    "id": 443,
+    "name": "Cold Steel",
+    "date": "2026-06-15",
+    "time_start": "21:14",
+    "time_end": "21:19",
+    "players": [
+      {
+        "player_id": 346,
+        "special": "",
+        "frags": 30,
+        "frags_against": 12,
+        "self_kills": 0,
+        "elo_before": 1080.12,
+        "elo_after": 1099.36
+      },
+      {
+        "player_id": 353,
+        "special": "",
+        "frags": 16,
+        "frags_against": 9,
+        "self_kills": 0,
+        "elo_before": 1027.33,
+        "elo_after": 1055.85
+      },
+      {
+        "player_id": 349,
+        "special": "",
+        "frags": 11,
+        "frags_against": 23,
+        "self_kills": 0,
+        "elo_before": 962.55,
+        "elo_after": 933.44
+      },
+      {
+        "player_id": 40,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 9,
+        "self_kills": 0,
+        "elo_before": 1035.55,
+        "elo_after": 1052.62
+      },
+      {
+        "player_id": 201,
+        "special": "",
+        "frags": 5,
+        "frags_against": 4,
+        "self_kills": 0,
+        "elo_before": 981.24,
+        "elo_after": 993.35
+      },
+      {
+        "player_id": 51,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 11,
+        "self_kills": 0,
+        "elo_before": 1031.03,
+        "elo_after": 1004.98
+      },
+      {
+        "player_id": 89,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 3,
+        "self_kills": 0,
+        "elo_before": 925.06,
+        "elo_after": 923.44
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 852.01,
+        "elo_after": 846.86
+      },
+      {
+        "player_id": 351,
+        "special": "",
+        "frags": 0,
+        "frags_against": 2,
+        "self_kills": 0,
+        "elo_before": 935.99,
+        "elo_after": 923.98
+      }
+    ]
   }
 ]
