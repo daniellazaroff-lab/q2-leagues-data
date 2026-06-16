@@ -35476,5 +35476,68 @@
         "elo_after": 971.52
       }
     ]
+  },
+  {
+    "id": 467,
+    "name": "Overflow",
+    "date": "2026-06-15",
+    "time_start": "23:22",
+    "time_end": "23:22",
+    "players": [
+      {
+        "player_id": 366,
+        "special": "",
+        "frags": 30,
+        "frags_against": 6,
+        "self_kills": 0,
+        "elo_before": 1020.07,
+        "elo_after": 1020.07
+      },
+      {
+        "player_id": 306,
+        "special": "",
+        "frags": 24,
+        "frags_against": 9,
+        "self_kills": 0,
+        "elo_before": 1016.95,
+        "elo_after": 1028.24
+      },
+      {
+        "player_id": 61,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 16,
+        "self_kills": 1,
+        "elo_before": 972.55,
+        "elo_after": 955.13
+      },
+      {
+        "player_id": 109,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 22,
+        "self_kills": 1,
+        "elo_before": 888.59,
+        "elo_after": 882.53
+      },
+      {
+        "player_id": 124,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 18,
+        "self_kills": 1,
+        "elo_before": 850.73,
+        "elo_after": 846.81
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 971.52,
+        "elo_after": 964.56
+      }
+    ]
   }
 ]
