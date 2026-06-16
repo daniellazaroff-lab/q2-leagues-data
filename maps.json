@@ -41965,5 +41965,68 @@
         "elo_after": 790.2
       }
     ]
+  },
+  {
+    "id": 546,
+    "name": "Empty Space",
+    "date": "2026-06-16",
+    "time_start": "14:04",
+    "time_end": "14:04",
+    "players": [
+      {
+        "player_id": 205,
+        "special": "",
+        "frags": 30,
+        "frags_against": 7,
+        "self_kills": 0,
+        "elo_before": 1289.97,
+        "elo_after": 1329.81
+      },
+      {
+        "player_id": 327,
+        "special": "",
+        "frags": 15,
+        "frags_against": 13,
+        "self_kills": 0,
+        "elo_before": 857.59,
+        "elo_after": 876.83
+      },
+      {
+        "player_id": 406,
+        "special": "",
+        "frags": 8,
+        "frags_against": 18,
+        "self_kills": 0,
+        "elo_before": 858.08,
+        "elo_after": 808.39
+      },
+      {
+        "player_id": 82,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 16,
+        "self_kills": 2,
+        "elo_before": 937.39,
+        "elo_after": 922.85
+      },
+      {
+        "player_id": 80,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 19,
+        "self_kills": 3,
+        "elo_before": 903.26,
+        "elo_after": 905.25
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 790.2,
+        "elo_after": 786.36
+      }
+    ]
   }
 ]
