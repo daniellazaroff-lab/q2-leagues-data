@@ -39571,5 +39571,95 @@
         "elo_after": 852.04
       }
     ]
+  },
+  {
+    "id": 516,
+    "name": "Empty Space",
+    "date": "2026-06-16",
+    "time_start": "09:44",
+    "time_end": "09:49",
+    "players": [
+      {
+        "player_id": 395,
+        "special": "",
+        "frags": 30,
+        "frags_against": 13,
+        "self_kills": 0,
+        "elo_before": 998.05,
+        "elo_after": 1015.22
+      },
+      {
+        "player_id": 80,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 22,
+        "self_kills": 3,
+        "elo_before": 900.08,
+        "elo_after": 921.89
+      },
+      {
+        "player_id": 87,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 18,
+        "self_kills": 6,
+        "elo_before": 962.28,
+        "elo_after": 940.48
+      },
+      {
+        "player_id": 72,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 13,
+        "self_kills": 3,
+        "elo_before": 982.62,
+        "elo_after": 949.41
+      },
+      {
+        "player_id": 393,
+        "special": "",
+        "frags": 6,
+        "frags_against": 16,
+        "self_kills": 0,
+        "elo_before": 886.81,
+        "elo_after": 876.65
+      },
+      {
+        "player_id": 95,
+        "special": "B",
+        "frags": 6,
+        "frags_against": 7,
+        "self_kills": 1,
+        "elo_before": 868.91,
+        "elo_after": 891.13
+      },
+      {
+        "player_id": 74,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 9,
+        "self_kills": 0,
+        "elo_before": 1001.0,
+        "elo_after": 985.29
+      },
+      {
+        "player_id": 219,
+        "special": "",
+        "frags": 1,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 989.36,
+        "elo_after": 994.28
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 852.04,
+        "elo_after": 844.8
+      }
+    ]
   }
 ]
