@@ -36610,5 +36610,113 @@
         "elo_after": 1026.68
       }
     ]
+  },
+  {
+    "id": 480,
+    "name": "War Room",
+    "date": "2026-06-16",
+    "time_start": "03:20",
+    "time_end": "03:28",
+    "players": [
+      {
+        "player_id": 34,
+        "special": "B",
+        "frags": 18,
+        "frags_against": 20,
+        "self_kills": 2,
+        "elo_before": 879.1,
+        "elo_after": 902.81
+      },
+      {
+        "player_id": 73,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 19,
+        "self_kills": 4,
+        "elo_before": 885.81,
+        "elo_after": 897.41
+      },
+      {
+        "player_id": 29,
+        "special": "B",
+        "frags": 13,
+        "frags_against": 20,
+        "self_kills": 2,
+        "elo_before": 886.43,
+        "elo_after": 863.1
+      },
+      {
+        "player_id": 59,
+        "special": "B",
+        "frags": 10,
+        "frags_against": 18,
+        "self_kills": 0,
+        "elo_before": 898.74,
+        "elo_after": 852.01
+      },
+      {
+        "player_id": 379,
+        "special": "",
+        "frags": 10,
+        "frags_against": 2,
+        "self_kills": 0,
+        "elo_before": 1004.48,
+        "elo_after": 1004.48
+      },
+      {
+        "player_id": 104,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 13,
+        "self_kills": 0,
+        "elo_before": 850.02,
+        "elo_after": 843.79
+      },
+      {
+        "player_id": 68,
+        "special": "B",
+        "frags": 5,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 955.39,
+        "elo_after": 976.77
+      },
+      {
+        "player_id": 380,
+        "special": "",
+        "frags": 4,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 1002.58,
+        "elo_after": 1002.58
+      },
+      {
+        "player_id": 154,
+        "special": "",
+        "frags": 3,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 998.26,
+        "elo_after": 998.94
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 921.34,
+        "elo_after": 920.2
+      },
+      {
+        "player_id": 378,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 1007.44,
+        "elo_after": 1007.44
+      }
+    ]
   }
 ]
