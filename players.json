@@ -1703,41 +1703,41 @@
     "name": "GrowthKasei",
     "special": "B",
     "is_bot": true,
-    "maps_played": 12,
-    "total_frags": 152,
+    "maps_played": 13,
+    "total_frags": 171,
     "frags_by_weapon": {
-      "Railgun": 19,
+      "Railgun": 21,
       "Rocket Launcher": 35,
-      "Chaingun": 15,
+      "Chaingun": 17,
       "Grenade Launcher": 14,
-      "HyperBlaster": 27,
+      "HyperBlaster": 28,
       "Machine Gun": 2,
-      "Super Shotgun": 19,
-      "BFG10K": 15,
-      "Blaster": 6
+      "Super Shotgun": 20,
+      "BFG10K": 24,
+      "Blaster": 10
     },
-    "total_frags_against": 132,
+    "total_frags_against": 157,
     "frags_against_by_weapon": {
-      "Railgun": 27,
-      "Rocket Launcher": 28,
+      "Railgun": 33,
+      "Rocket Launcher": 30,
       "Machine Gun": 3,
-      "Super Shotgun": 16,
+      "Super Shotgun": 19,
       "Grenade Launcher": 12,
-      "HyperBlaster": 24,
+      "HyperBlaster": 26,
       "Hand Grenade": 3,
-      "BFG10K": 5,
-      "Chaingun": 11,
-      "Blaster": 3
+      "BFG10K": 13,
+      "Chaingun": 14,
+      "Blaster": 4
     },
-    "total_self_kills": 24,
+    "total_self_kills": 28,
     "self_kills_by_type": {
       "Rocket": 19,
       "Suicide": 1,
       "Fall": 1,
-      "BFG10K": 2,
+      "BFG10K": 6,
       "Laser": 1
     },
-    "elo": 962.68
+    "elo": 926.8
   },
   {
     "id": 55,
@@ -3003,30 +3003,31 @@
     "name": "Rainbow Sparkles",
     "special": "B",
     "is_bot": true,
-    "maps_played": 10,
-    "total_frags": 120,
+    "maps_played": 11,
+    "total_frags": 140,
     "frags_by_weapon": {
-      "Rocket Launcher": 30,
-      "BFG10K": 16,
-      "Super Shotgun": 15,
-      "Chaingun": 14,
+      "Rocket Launcher": 33,
+      "BFG10K": 24,
+      "Super Shotgun": 17,
+      "Chaingun": 19,
       "Machine Gun": 7,
       "Grenade Launcher": 9,
       "HyperBlaster": 13,
       "Blaster": 9,
-      "Railgun": 7
+      "Railgun": 8,
+      "Chainfist": 1
     },
-    "total_frags_against": 148,
+    "total_frags_against": 170,
     "frags_against_by_weapon": {
-      "Railgun": 23,
-      "Super Shotgun": 20,
-      "Chaingun": 11,
+      "Railgun": 29,
+      "Super Shotgun": 22,
+      "Chaingun": 14,
       "Rocket Launcher": 23,
       "Grenade Launcher": 10,
-      "Blaster": 5,
+      "Blaster": 6,
       "HyperBlaster": 22,
       "Machine Gun": 4,
-      "BFG10K": 30
+      "BFG10K": 40
     },
     "total_self_kills": 15,
     "self_kills_by_type": {
@@ -3035,7 +3036,7 @@
       "Grenade": 4,
       "Laser": 2
     },
-    "elo": 951.45
+    "elo": 912.62
   },
   {
     "id": 90,
@@ -3115,41 +3116,41 @@
     "name": "Revenge of the Beans",
     "special": "B",
     "is_bot": true,
-    "maps_played": 17,
-    "total_frags": 220,
+    "maps_played": 18,
+    "total_frags": 227,
     "frags_by_weapon": {
       "Rocket Launcher": 54,
-      "Chaingun": 14,
+      "Chaingun": 15,
       "Railgun": 26,
-      "BFG10K": 41,
+      "BFG10K": 47,
       "Grenade Launcher": 13,
       "HyperBlaster": 30,
       "Super Shotgun": 23,
       "Machine Gun": 7,
       "Blaster": 12
     },
-    "total_frags_against": 278,
+    "total_frags_against": 282,
     "frags_against_by_weapon": {
       "Grenade Launcher": 24,
-      "Railgun": 68,
+      "Railgun": 69,
       "HyperBlaster": 39,
       "Super Shotgun": 33,
       "Chaingun": 22,
-      "Rocket Launcher": 51,
+      "Rocket Launcher": 53,
       "Machine Gun": 10,
-      "BFG10K": 19,
+      "BFG10K": 20,
       "Blaster": 9,
       "Hand Grenade": 3
     },
-    "total_self_kills": 29,
+    "total_self_kills": 32,
     "self_kills_by_type": {
-      "BFG10K": 9,
-      "Rocket": 15,
+      "BFG10K": 10,
+      "Rocket": 17,
       "Grenade": 1,
       "Laser": 3,
       "Suicide": 1
     },
-    "elo": 984.35
+    "elo": 991.57
   },
   {
     "id": 93,
@@ -3515,39 +3516,39 @@
     "name": "Slambert",
     "special": "B",
     "is_bot": true,
-    "maps_played": 9,
-    "total_frags": 124,
+    "maps_played": 10,
+    "total_frags": 145,
     "frags_by_weapon": {
-      "Super Shotgun": 22,
-      "Railgun": 11,
-      "HyperBlaster": 11,
-      "Rocket Launcher": 30,
-      "Chaingun": 14,
-      "BFG10K": 16,
+      "Super Shotgun": 23,
+      "Railgun": 13,
+      "HyperBlaster": 12,
+      "Rocket Launcher": 31,
+      "Chaingun": 17,
+      "BFG10K": 28,
       "Grenade Launcher": 8,
-      "Blaster": 6,
+      "Blaster": 7,
       "Machine Gun": 6
     },
-    "total_frags_against": 143,
+    "total_frags_against": 157,
     "frags_against_by_weapon": {
-      "BFG10K": 30,
-      "Super Shotgun": 16,
-      "Railgun": 32,
+      "BFG10K": 36,
+      "Super Shotgun": 20,
+      "Railgun": 34,
       "Grenade Launcher": 19,
       "Rocket Launcher": 14,
-      "Chaingun": 8,
+      "Chaingun": 10,
       "HyperBlaster": 17,
       "Machine Gun": 4,
       "Blaster": 3
     },
-    "total_self_kills": 18,
+    "total_self_kills": 21,
     "self_kills_by_type": {
-      "Rocket": 13,
-      "BFG10K": 2,
+      "Rocket": 14,
+      "BFG10K": 4,
       "Grenade": 1,
       "Laser": 2
     },
-    "elo": 963.23
+    "elo": 1014.57
   },
   {
     "id": 104,
@@ -4661,40 +4662,41 @@
     "name": "Q2-Leagues",
     "special": "",
     "is_bot": false,
-    "maps_played": 447,
-    "total_frags": 352,
+    "maps_played": 448,
+    "total_frags": 383,
     "frags_by_weapon": {
-      "Railgun": 72,
+      "Railgun": 88,
       "BFG10K": 12,
       "Chaingun": 38,
-      "Rocket Launcher": 52,
+      "Rocket Launcher": 54,
       "Grenade Launcher": 32,
-      "Super Shotgun": 98,
+      "Super Shotgun": 111,
       "Machine Gun": 32,
       "HyperBlaster": 15,
       "Blaster": 1
     },
-    "total_frags_against": 643,
+    "total_frags_against": 645,
     "frags_against_by_weapon": {
       "Chaingun": 62,
       "Blaster": 53,
       "Grenade Launcher": 77,
       "Rocket Launcher": 80,
       "Super Shotgun": 96,
-      "BFG10K": 71,
+      "BFG10K": 73,
       "Railgun": 103,
       "HyperBlaster": 65,
       "Machine Gun": 29,
       "Hand Grenade": 4,
       "Chainfist": 3
     },
-    "total_self_kills": 13,
+    "total_self_kills": 14,
     "self_kills_by_type": {
       "Grenade": 4,
       "Lava": 3,
-      "Rocket": 6
+      "Rocket": 6,
+      "BFG10K": 1
     },
-    "elo": 829.84
+    "elo": 982.82
   },
   {
     "id": 134,
@@ -11070,29 +11072,31 @@
     "name": "Moosephallos",
     "special": "",
     "is_bot": false,
-    "maps_played": 3,
-    "total_frags": 54,
+    "maps_played": 4,
+    "total_frags": 63,
     "frags_by_weapon": {
-      "Chaingun": 4,
+      "Chaingun": 6,
       "Rocket Launcher": 8,
       "Hand Grenade": 2,
-      "HyperBlaster": 10,
+      "HyperBlaster": 11,
       "Super Shotgun": 4,
       "Machine Gun": 3,
-      "Railgun": 20,
-      "BFG10K": 3
+      "Railgun": 23,
+      "BFG10K": 5,
+      "Blaster": 1
     },
-    "total_frags_against": 50,
+    "total_frags_against": 73,
     "frags_against_by_weapon": {
-      "Railgun": 10,
-      "Rocket Launcher": 9,
-      "BFG10K": 9,
-      "Chaingun": 3,
+      "Railgun": 14,
+      "Rocket Launcher": 11,
+      "BFG10K": 15,
+      "Chaingun": 4,
       "Machine Gun": 5,
-      "Super Shotgun": 8,
+      "Super Shotgun": 14,
       "Grenade Launcher": 2,
-      "HyperBlaster": 1,
-      "Blaster": 3
+      "HyperBlaster": 2,
+      "Blaster": 5,
+      "Chainfist": 1
     },
     "total_self_kills": 3,
     "self_kills_by_type": {
@@ -11100,7 +11104,7 @@
       "BFG10K": 1,
       "Rocket": 1
     },
-    "elo": 1033.08
+    "elo": 949.79
   },
   {
     "id": 356,
@@ -11130,5 +11134,27 @@
       "Grenade": 1
     },
     "elo": 985.85
+  },
+  {
+    "id": 357,
+    "name": "Crimvael",
+    "special": "",
+    "is_bot": false,
+    "maps_played": 1,
+    "total_frags": 1,
+    "frags_by_weapon": {
+      "Super Shotgun": 1
+    },
+    "total_frags_against": 18,
+    "frags_against_by_weapon": {
+      "Railgun": 5,
+      "Chaingun": 4,
+      "Blaster": 2,
+      "BFG10K": 4,
+      "Super Shotgun": 3
+    },
+    "total_self_kills": 0,
+    "self_kills_by_type": {},
+    "elo": 927.46
   }
 ]
