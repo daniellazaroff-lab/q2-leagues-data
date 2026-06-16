@@ -35233,5 +35233,95 @@
         "elo_after": 977.58
       }
     ]
+  },
+  {
+    "id": 464,
+    "name": "Mad Dash",
+    "date": "2026-06-15",
+    "time_start": "22:59",
+    "time_end": "23:04",
+    "players": [
+      {
+        "player_id": 136,
+        "special": "",
+        "frags": 30,
+        "frags_against": 6,
+        "self_kills": 0,
+        "elo_before": 1651.97,
+        "elo_after": 1665.88
+      },
+      {
+        "player_id": 308,
+        "special": "",
+        "frags": 11,
+        "frags_against": 14,
+        "self_kills": 0,
+        "elo_before": 1078.06,
+        "elo_after": 1088.93
+      },
+      {
+        "player_id": 109,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 11,
+        "self_kills": 1,
+        "elo_before": 925.19,
+        "elo_after": 945.73
+      },
+      {
+        "player_id": 61,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 15,
+        "self_kills": 1,
+        "elo_before": 1009.99,
+        "elo_after": 978.6
+      },
+      {
+        "player_id": 363,
+        "special": "",
+        "frags": 2,
+        "frags_against": 5,
+        "self_kills": 0,
+        "elo_before": 982.61,
+        "elo_after": 966.43
+      },
+      {
+        "player_id": 66,
+        "special": "B",
+        "frags": 1,
+        "frags_against": 4,
+        "self_kills": 1,
+        "elo_before": 894.69,
+        "elo_after": 905.21
+      },
+      {
+        "player_id": 197,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 1061.2,
+        "elo_after": 1053.79
+      },
+      {
+        "player_id": 122,
+        "special": "B",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 887.33,
+        "elo_after": 887.31
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 977.58,
+        "elo_after": 973.74
+      }
+    ]
   }
 ]
