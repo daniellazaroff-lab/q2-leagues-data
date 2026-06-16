@@ -36952,5 +36952,86 @@
         "elo_after": 908.65
       }
     ]
+  },
+  {
+    "id": 484,
+    "name": "Mad Dash",
+    "date": "2026-06-16",
+    "time_start": "03:52",
+    "time_end": "03:56",
+    "players": [
+      {
+        "player_id": 152,
+        "special": "",
+        "frags": 30,
+        "frags_against": 11,
+        "self_kills": 1,
+        "elo_before": 1155.91,
+        "elo_after": 1139.57
+      },
+      {
+        "player_id": 177,
+        "special": "",
+        "frags": 22,
+        "frags_against": 14,
+        "self_kills": 0,
+        "elo_before": 1079.71,
+        "elo_after": 1060.83
+      },
+      {
+        "player_id": 380,
+        "special": "",
+        "frags": 15,
+        "frags_against": 11,
+        "self_kills": 1,
+        "elo_before": 984.06,
+        "elo_after": 1035.08
+      },
+      {
+        "player_id": 124,
+        "special": "B",
+        "frags": 9,
+        "frags_against": 19,
+        "self_kills": 0,
+        "elo_before": 830.12,
+        "elo_after": 845.78
+      },
+      {
+        "player_id": 381,
+        "special": "",
+        "frags": 6,
+        "frags_against": 9,
+        "self_kills": 2,
+        "elo_before": 984.0,
+        "elo_after": 971.81
+      },
+      {
+        "player_id": 80,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 26,
+        "self_kills": 4,
+        "elo_before": 977.21,
+        "elo_after": 953.94
+      },
+      {
+        "player_id": 113,
+        "special": "B",
+        "frags": 3,
+        "frags_against": 6,
+        "self_kills": 0,
+        "elo_before": 961.5,
+        "elo_after": 953.31
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 908.65,
+        "elo_after": 907.84
+      }
+    ]
   }
 ]
