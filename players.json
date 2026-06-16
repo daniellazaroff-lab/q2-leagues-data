@@ -794,29 +794,29 @@
     "name": "Bob The Frag Queen",
     "special": "B",
     "is_bot": true,
-    "maps_played": 33,
-    "total_frags": 447,
+    "maps_played": 34,
+    "total_frags": 474,
     "frags_by_weapon": {
       "Grenade Launcher": 42,
       "Blaster": 29,
-      "Chaingun": 43,
-      "Railgun": 42,
-      "BFG10K": 75,
-      "HyperBlaster": 71,
+      "Chaingun": 50,
+      "Railgun": 45,
+      "BFG10K": 84,
+      "HyperBlaster": 77,
       "Rocket Launcher": 96,
-      "Super Shotgun": 40,
+      "Super Shotgun": 42,
       "Machine Gun": 9
     },
-    "total_frags_against": 582,
+    "total_frags_against": 606,
     "frags_against_by_weapon": {
-      "HyperBlaster": 73,
-      "Chaingun": 58,
-      "Super Shotgun": 76,
-      "Railgun": 91,
+      "HyperBlaster": 78,
+      "Chaingun": 63,
+      "Super Shotgun": 79,
+      "Railgun": 93,
       "Grenade Launcher": 45,
-      "BFG10K": 89,
-      "Rocket Launcher": 100,
-      "Machine Gun": 19,
+      "BFG10K": 93,
+      "Rocket Launcher": 102,
+      "Machine Gun": 22,
       "Blaster": 29,
       "Chainfist": 1,
       "Hand Grenade": 1
@@ -830,7 +830,7 @@
       "Laser": 6,
       "Lava": 2
     },
-    "elo": 896.13
+    "elo": 935.6
   },
   {
     "id": 30,
@@ -993,39 +993,40 @@
     "name": "Car Go Vroom",
     "special": "B",
     "is_bot": true,
-    "maps_played": 5,
-    "total_frags": 43,
+    "maps_played": 6,
+    "total_frags": 68,
     "frags_by_weapon": {
-      "Blaster": 2,
-      "Rocket Launcher": 19,
-      "HyperBlaster": 2,
-      "Chaingun": 2,
+      "Blaster": 3,
+      "Rocket Launcher": 22,
+      "HyperBlaster": 10,
+      "Chaingun": 6,
       "BFG10K": 10,
       "Grenade Launcher": 5,
-      "Super Shotgun": 2,
-      "Railgun": 1
+      "Super Shotgun": 7,
+      "Railgun": 3,
+      "Machine Gun": 2
     },
-    "total_frags_against": 81,
+    "total_frags_against": 111,
     "frags_against_by_weapon": {
       "Blaster": 3,
-      "Chaingun": 5,
-      "Railgun": 24,
-      "Rocket Launcher": 19,
-      "BFG10K": 8,
-      "HyperBlaster": 5,
-      "Grenade Launcher": 7,
-      "Super Shotgun": 8,
+      "Chaingun": 9,
+      "Railgun": 27,
+      "Rocket Launcher": 22,
+      "BFG10K": 14,
+      "HyperBlaster": 8,
+      "Grenade Launcher": 8,
+      "Super Shotgun": 13,
       "Hand Grenade": 1,
-      "Machine Gun": 1
+      "Machine Gun": 6
     },
-    "total_self_kills": 7,
+    "total_self_kills": 8,
     "self_kills_by_type": {
       "BFG10K": 1,
-      "Rocket": 4,
+      "Rocket": 5,
       "Grenade": 1,
       "Laser": 1
     },
-    "elo": 892.36
+    "elo": 881.03
   },
   {
     "id": 35,
@@ -1638,30 +1639,30 @@
     "name": "Fritz",
     "special": "B",
     "is_bot": true,
-    "maps_played": 9,
-    "total_frags": 182,
+    "maps_played": 10,
+    "total_frags": 187,
     "frags_by_weapon": {
-      "Machine Gun": 11,
+      "Machine Gun": 12,
       "Rocket Launcher": 34,
-      "Railgun": 19,
+      "Railgun": 20,
       "Blaster": 12,
-      "Chaingun": 17,
-      "HyperBlaster": 33,
+      "Chaingun": 18,
+      "HyperBlaster": 35,
       "BFG10K": 19,
       "Grenade Launcher": 16,
       "Super Shotgun": 21
     },
-    "total_frags_against": 158,
+    "total_frags_against": 162,
     "frags_against_by_weapon": {
-      "Super Shotgun": 18,
+      "Super Shotgun": 20,
       "Machine Gun": 4,
-      "Railgun": 21,
+      "Railgun": 22,
       "Chaingun": 15,
       "Rocket Launcher": 35,
       "HyperBlaster": 23,
       "Grenade Launcher": 14,
       "Blaster": 10,
-      "BFG10K": 18
+      "BFG10K": 19
     },
     "total_self_kills": 15,
     "self_kills_by_type": {
@@ -1671,7 +1672,7 @@
       "BFG10K": 6,
       "Laser": 1
     },
-    "elo": 980.17
+    "elo": 973.32
   },
   {
     "id": 53,
@@ -3083,32 +3084,32 @@
     "name": "RedAppleIvy",
     "special": "B",
     "is_bot": true,
-    "maps_played": 93,
-    "total_frags": 1410,
+    "maps_played": 94,
+    "total_frags": 1423,
     "frags_by_weapon": {
       "Railgun": 180,
-      "Super Shotgun": 179,
-      "Rocket Launcher": 323,
-      "Chaingun": 109,
+      "Super Shotgun": 183,
+      "Rocket Launcher": 324,
+      "Chaingun": 111,
       "Machine Gun": 54,
       "Grenade Launcher": 97,
-      "BFG10K": 214,
+      "BFG10K": 220,
       "Blaster": 70,
       "HyperBlaster": 181,
       "Chainfist": 3
     },
-    "total_frags_against": 1771,
+    "total_frags_against": 1785,
     "frags_against_by_weapon": {
-      "Railgun": 307,
-      "BFG10K": 252,
+      "Railgun": 310,
+      "BFG10K": 254,
       "Blaster": 63,
       "Machine Gun": 63,
-      "Super Shotgun": 261,
+      "Super Shotgun": 263,
       "Grenade Launcher": 129,
-      "Chaingun": 134,
+      "Chaingun": 136,
       "Rocket Launcher": 354,
-      "HyperBlaster": 202,
-      "Hand Grenade": 4,
+      "HyperBlaster": 206,
+      "Hand Grenade": 5,
       "Chainfist": 2
     },
     "total_self_kills": 188,
@@ -3121,7 +3122,7 @@
       "Fall": 2,
       "Suicide": 2
     },
-    "elo": 874.19
+    "elo": 891.74
   },
   {
     "id": 92,
@@ -3692,28 +3693,28 @@
     "name": "Starbuck",
     "special": "B",
     "is_bot": true,
-    "maps_played": 5,
-    "total_frags": 51,
+    "maps_played": 6,
+    "total_frags": 56,
     "frags_by_weapon": {
       "Rocket Launcher": 11,
-      "Super Shotgun": 10,
-      "Railgun": 7,
+      "Super Shotgun": 12,
+      "Railgun": 8,
       "Grenade Launcher": 3,
       "Chaingun": 10,
-      "HyperBlaster": 4,
+      "HyperBlaster": 6,
       "Machine Gun": 1,
       "Blaster": 1,
       "BFG10K": 4
     },
-    "total_frags_against": 76,
+    "total_frags_against": 86,
     "frags_against_by_weapon": {
-      "Super Shotgun": 18,
-      "Grenade Launcher": 7,
+      "Super Shotgun": 21,
+      "Grenade Launcher": 8,
       "Machine Gun": 4,
-      "Railgun": 14,
+      "Railgun": 16,
       "Rocket Launcher": 11,
-      "HyperBlaster": 10,
-      "Chaingun": 6,
+      "HyperBlaster": 11,
+      "Chaingun": 9,
       "Blaster": 5,
       "BFG10K": 1
     },
@@ -3724,7 +3725,7 @@
       "Rocket": 4,
       "Fall": 1
     },
-    "elo": 945.05
+    "elo": 922.01
   },
   {
     "id": 108,
@@ -4474,8 +4475,8 @@
     "name": "manjobangina",
     "special": "B",
     "is_bot": true,
-    "maps_played": 6,
-    "total_frags": 87,
+    "maps_played": 7,
+    "total_frags": 88,
     "frags_by_weapon": {
       "HyperBlaster": 12,
       "Chaingun": 5,
@@ -4484,18 +4485,18 @@
       "Blaster": 5,
       "Grenade Launcher": 4,
       "Super Shotgun": 7,
-      "Railgun": 7
+      "Railgun": 8
     },
-    "total_frags_against": 79,
+    "total_frags_against": 81,
     "frags_against_by_weapon": {
       "Grenade Launcher": 9,
-      "BFG10K": 16,
+      "BFG10K": 17,
       "HyperBlaster": 6,
       "Super Shotgun": 10,
       "Rocket Launcher": 17,
       "Blaster": 3,
       "Railgun": 13,
-      "Chaingun": 4,
+      "Chaingun": 5,
       "Machine Gun": 1
     },
     "total_self_kills": 12,
@@ -4503,7 +4504,7 @@
       "BFG10K": 7,
       "Rocket": 5
     },
-    "elo": 947.32
+    "elo": 936.18
   },
   {
     "id": 128,
@@ -4697,7 +4698,7 @@
     "name": "Q2-Leagues",
     "special": "",
     "is_bot": false,
-    "maps_played": 473,
+    "maps_played": 474,
     "total_frags": 433,
     "frags_by_weapon": {
       "Railgun": 107,
@@ -4710,11 +4711,11 @@
       "HyperBlaster": 15,
       "Blaster": 1
     },
-    "total_frags_against": 690,
+    "total_frags_against": 691,
     "frags_against_by_weapon": {
       "Chaingun": 64,
       "Blaster": 56,
-      "Grenade Launcher": 79,
+      "Grenade Launcher": 80,
       "Rocket Launcher": 88,
       "Super Shotgun": 106,
       "BFG10K": 76,
@@ -4731,7 +4732,7 @@
       "Rocket": 8,
       "BFG10K": 1
     },
-    "elo": 943.58
+    "elo": 937.71
   },
   {
     "id": 134,
@@ -11583,27 +11584,27 @@
     "name": "GreenGuyCombine",
     "special": "",
     "is_bot": false,
-    "maps_played": 3,
-    "total_frags": 69,
+    "maps_played": 4,
+    "total_frags": 77,
     "frags_by_weapon": {
-      "Grenade Launcher": 8,
+      "Grenade Launcher": 11,
       "BFG10K": 10,
-      "Chaingun": 6,
+      "Chaingun": 9,
       "Rocket Launcher": 6,
       "Railgun": 17,
-      "HyperBlaster": 12,
+      "HyperBlaster": 13,
       "Super Shotgun": 6,
-      "Hand Grenade": 1,
+      "Hand Grenade": 2,
       "Machine Gun": 3
     },
-    "total_frags_against": 30,
+    "total_frags_against": 31,
     "frags_against_by_weapon": {
       "Railgun": 8,
       "Rocket Launcher": 9,
       "Chaingun": 5,
       "Grenade Launcher": 3,
       "BFG10K": 3,
-      "Super Shotgun": 1,
+      "Super Shotgun": 2,
       "Blaster": 1
     },
     "total_self_kills": 2,
@@ -11611,6 +11612,86 @@
       "Grenade": 1,
       "Laser": 1
     },
-    "elo": 1035.3
+    "elo": 1044.18
+  },
+  {
+    "id": 372,
+    "name": "Zetik",
+    "special": "",
+    "is_bot": false,
+    "maps_played": 1,
+    "total_frags": 25,
+    "frags_by_weapon": {
+      "Railgun": 6,
+      "Blaster": 1,
+      "Machine Gun": 9,
+      "Super Shotgun": 6,
+      "Chaingun": 2,
+      "HyperBlaster": 1
+    },
+    "total_frags_against": 13,
+    "frags_against_by_weapon": {
+      "Railgun": 5,
+      "BFG10K": 2,
+      "HyperBlaster": 1,
+      "Hand Grenade": 2,
+      "Chaingun": 1,
+      "Rocket Launcher": 2
+    },
+    "total_self_kills": 0,
+    "self_kills_by_type": {},
+    "elo": 1027.33
+  },
+  {
+    "id": 373,
+    "name": "JMSFNCLL",
+    "special": "",
+    "is_bot": false,
+    "maps_played": 1,
+    "total_frags": 7,
+    "frags_by_weapon": {
+      "Railgun": 4,
+      "Hand Grenade": 3
+    },
+    "total_frags_against": 15,
+    "frags_against_by_weapon": {
+      "Blaster": 1,
+      "BFG10K": 1,
+      "Railgun": 2,
+      "HyperBlaster": 4,
+      "Machine Gun": 2,
+      "Super Shotgun": 2,
+      "Chaingun": 2,
+      "Rocket Launcher": 1
+    },
+    "total_self_kills": 0,
+    "self_kills_by_type": {},
+    "elo": 975.95
+  },
+  {
+    "id": 374,
+    "name": "Dadnara",
+    "special": "",
+    "is_bot": false,
+    "maps_played": 1,
+    "total_frags": 8,
+    "frags_by_weapon": {
+      "Railgun": 2,
+      "BFG10K": 2,
+      "Rocket Launcher": 4
+    },
+    "total_frags_against": 10,
+    "frags_against_by_weapon": {
+      "Machine Gun": 2,
+      "Hand Grenade": 1,
+      "HyperBlaster": 2,
+      "Railgun": 2,
+      "Blaster": 1,
+      "Chaingun": 1,
+      "Super Shotgun": 1
+    },
+    "total_self_kills": 0,
+    "self_kills_by_type": {},
+    "elo": 990.05
   }
 ]
