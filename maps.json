@@ -36322,5 +36322,131 @@
         "elo_after": 929.25
       }
     ]
+  },
+  {
+    "id": 477,
+    "name": "Overflow",
+    "date": "2026-06-16",
+    "time_start": "02:23",
+    "time_end": "02:32",
+    "players": [
+      {
+        "player_id": 73,
+        "special": "B",
+        "frags": 20,
+        "frags_against": 22,
+        "self_kills": 3,
+        "elo_before": 930.16,
+        "elo_after": 898.83
+      },
+      {
+        "player_id": 59,
+        "special": "B",
+        "frags": 19,
+        "frags_against": 25,
+        "self_kills": 4,
+        "elo_before": 866.22,
+        "elo_after": 880.07
+      },
+      {
+        "player_id": 29,
+        "special": "B",
+        "frags": 17,
+        "frags_against": 30,
+        "self_kills": 3,
+        "elo_before": 869.98,
+        "elo_after": 837.31
+      },
+      {
+        "player_id": 34,
+        "special": "B",
+        "frags": 15,
+        "frags_against": 18,
+        "self_kills": 5,
+        "elo_before": 926.94,
+        "elo_after": 920.35
+      },
+      {
+        "player_id": 42,
+        "special": "B",
+        "frags": 8,
+        "frags_against": 8,
+        "self_kills": 0,
+        "elo_before": 946.36,
+        "elo_after": 931.8
+      },
+      {
+        "player_id": 14,
+        "special": "B",
+        "frags": 7,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 952.05,
+        "elo_after": 989.91
+      },
+      {
+        "player_id": 206,
+        "special": "",
+        "frags": 5,
+        "frags_against": 3,
+        "self_kills": 0,
+        "elo_before": 1030.92,
+        "elo_after": 1038.74
+      },
+      {
+        "player_id": 137,
+        "special": "",
+        "frags": 3,
+        "frags_against": 2,
+        "self_kills": 0,
+        "elo_before": 1220.64,
+        "elo_after": 1218.01
+      },
+      {
+        "player_id": 84,
+        "special": "B",
+        "frags": 2,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 1000.26,
+        "elo_after": 1011.71
+      },
+      {
+        "player_id": 374,
+        "special": "",
+        "frags": 1,
+        "frags_against": 3,
+        "self_kills": 0,
+        "elo_before": 960.55,
+        "elo_after": 956.07
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 929.25,
+        "elo_after": 923.53
+      },
+      {
+        "player_id": 314,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 987.3,
+        "elo_after": 987.3
+      },
+      {
+        "player_id": 201,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 950.44,
+        "elo_after": 950.44
+      }
+    ]
   }
 ]
