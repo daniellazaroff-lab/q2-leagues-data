@@ -38914,5 +38914,86 @@
         "elo_after": 991.03
       }
     ]
+  },
+  {
+    "id": 508,
+    "name": "Agony",
+    "date": "2026-06-16",
+    "time_start": "08:40",
+    "time_end": "08:43",
+    "players": [
+      {
+        "player_id": 160,
+        "special": "",
+        "frags": 30,
+        "frags_against": 0,
+        "self_kills": 1,
+        "elo_before": 1153.46,
+        "elo_after": 1189.14
+      },
+      {
+        "player_id": 20,
+        "special": "B",
+        "frags": 4,
+        "frags_against": 12,
+        "self_kills": 0,
+        "elo_before": 960.2,
+        "elo_after": 944.97
+      },
+      {
+        "player_id": 58,
+        "special": "B",
+        "frags": 3,
+        "frags_against": 4,
+        "self_kills": 1,
+        "elo_before": 954.65,
+        "elo_after": 972.48
+      },
+      {
+        "player_id": 80,
+        "special": "B",
+        "frags": 2,
+        "frags_against": 16,
+        "self_kills": 0,
+        "elo_before": 928.15,
+        "elo_after": 917.03
+      },
+      {
+        "player_id": 259,
+        "special": "",
+        "frags": 0,
+        "frags_against": 0,
+        "self_kills": 0,
+        "elo_before": 1328.74,
+        "elo_after": 1328.74
+      },
+      {
+        "player_id": 392,
+        "special": "",
+        "frags": 0,
+        "frags_against": 7,
+        "self_kills": 0,
+        "elo_before": 973.75,
+        "elo_after": 973.75
+      },
+      {
+        "player_id": 158,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 991.03,
+        "elo_after": 989.94
+      },
+      {
+        "player_id": 133,
+        "special": "",
+        "frags": 0,
+        "frags_against": 1,
+        "self_kills": 0,
+        "elo_before": 865.08,
+        "elo_after": 864.26
+      }
+    ]
   }
 ]
